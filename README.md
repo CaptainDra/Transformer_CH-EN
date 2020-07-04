@@ -24,7 +24,7 @@ The total result:
 
 <img src="pic/total_result.png" width = 650/>  
 
-We could get some translation as following(similar meaning in different result):   
+We could get some translation as following(similar meaning in different result, but ignore draft):   
 
 <img src="pic/diff_result_same_meaning.png" width = 650/>  
 
