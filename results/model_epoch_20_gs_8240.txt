@@ -1,0 +1,4737 @@
+- source: 但 这 不 应该 让 我们 打退堂鼓.
+- expected: But this should not discourage us.
+- got: But that is not our <UNK>
+
+- source: 但 那 只是 一 种 工具.
+- expected: But that is only one tool.
+- got: But that is a more <UNK>
+
+- source: 今天 全面 核 禁试 条约 已 开放 供 签字.
+- expected: Today, the Comprehensive Nuclear-Test-Ban Treaty was opened for signature.
+- got: Today's triumph have grown <UNK> towards the task.
+
+- source: 这 不仅仅是 一 个 裁军 的 问题.
+- expected: This is not just a disarmament issue.
+- got: This is a matter of the disarmament issue.
+
+- source: 但是 还有 许多 事情 要做.
+- expected: But much remains to be done.
+- got: However, many obstacles lie ahead.
+
+- source: 这种 做法 既 糊涂, 又 短视.
+- expected: This is both wrong-headed and short-sighted.
+- got: It <UNK> should be <UNK>
+
+- source: 我们 现在 有 许多 选择 可以 考虑 和 讨论.
+- expected: We now have many options to consider and discuss.
+- got: We have now that families and can be addressed.
+
+- source: 领导人 雄心 与 霸权 做法 重叠.
+- expected: Ambitions of leadership overlap practices of hegemony.
+- got: The leaders and <UNK> with <UNK>
+
+- source: 然而, 目前 的 局势 看来 并不 非常 令人 鼓舞.
+- expected: Nevertheless, the present situation does not seem very encouraging.
+- got: However, the situation has not become more <UNK>
+
+- source: 民族 和解 正在 成为 现实.
+- expected: National reconciliation is becoming a reality.
+- got: One Bangladesh is becoming more than ever.
+
+- source: 发展 还 必须 具有 道义 和 道德 内容.
+- expected: Development must also have a moral and ethical dimension.
+- got: Development and human rights must also be improved.
+
+- source: 我们 的 世界 正 进入 第三个 千 年.
+- expected: Our world is approaching the third millennium.
+- got: We have a world more later.
+
+- source: 我们 都 知道 它 绝不 会 容易 的.
+- expected: We all knew it would never be easy.
+- got: We do not and cannot take this <UNK>
+
+- source: 最后 一段 鼓励 区域 发展 与 合作.
+- expected: The last paragraph encourages regional development and cooperation.
+- got: Tuesday, cooperation with the regional cooperation.
+
+- source: 同时, 局势 却 似乎 极为 矛盾.
+- expected: Meanwhile, the situation appears to be highly contradictory.
+- got: At the situation is very <UNK>
+
+- source: 这种 情况 不能 继续 下去.
+- expected: Such a situation cannot continue.
+- got: That situation cannot be <UNK>
+
+- source: 进展 是 缓慢 的.
+- expected: Progress has been slow.
+- got: Progress has been <UNK>
+
+- source: 我们 不同 意 这 一点.
+- expected: We cannot accept that.
+- got: We are not different view.
+
+- source: 请 不要 弄错.
+- expected: Make no mistake.
+- got: Please <UNK>
+
+- source: 和平 触手 可 及.
+- expected: Peace is at hand.
+- got: Peace thus live <UNK>
+
+- source: 让 我们 一起 努力, 使 其 成为 现实.
+- expected: Let us work together to make it a reality.
+- got: Let us consider that its first amendment right <UNK>
+
+- source: 这些 都是 不合 法 的.
+- expected: None of this is legitimate.
+- got: These challenges must be <UNK>
+
+- source: 还 收取 国家 安全 和 保险 的 扣 收款.
+- expected: There are deductions for national security and insurance.
+- got: <UNK> <UNK> and security of small States.
+
+- source: 副主席 马比兰甘 先生 (菲律宾) 主持 会议.
+- expected: Mr. Mabilangan (Philippines), Vice-President, took the Chair.
+- got: Mr. <UNK> <UNK> <UNK> <UNK> Vice-President, took the Chair.
+
+- source: 我们 希望 该 决议 草案 获得 协商 一致 通过.
+- expected: We hope it will be adopted by consensus.
+- got: We hope that it will be adopted unanimously.
+
+- source: 它们 甚至 可能 破坏 整个 和平 进程.
+- expected: They could even wreck the whole process.
+- got: They may not be represented a <UNK>
+
+- source: 以色列 实际上 已 丧失 其 信誉.
+- expected: Israel has really lost its credibility.
+- got: Israel has yet been signed with these missions.
+
+- source: 我们 重申 我们 的 呼吁.
+- expected: We reaffirm our appeal.
+- got: We repeat that <UNK> today.
+
+- source: 而且 必须 以下 列 方式 做到 这 一点.
+- expected: This must be done in the following way.
+- got: And that is being <UNK> in that respect.
+
+- source: 以色列 必须 接受 以 土地 换取 和平 的 原则.
+- expected: Israel must accept the principle of land for peace.
+- got: Israel must be committed to making sustainable development context.
+
+- source: 否则, 全面 和平 将 仍然 难以 实现.
+- expected: Otherwise, a comprehensive peace will remain elusive.
+- got: <UNK> development will be <UNK>
+
+- source: 和平 不能 再 受到 任何 拖延 了.
+- expected: Peace cannot be delayed any longer.
+- got: The need for doing not all States cannot <UNK>
+
+- source: 这 将 使 双方 付出 巨大 代价.
+- expected: That would have great costs for both sides.
+- got: This would ensure the continuity of the follow-up
+
+- source: 但是, 最近 的 事件 使 这些 希望 破灭.
+- expected: However, recent events have deeply frustrated those hopes.
+- got: However, the road sector has grown in these <UNK>
+
+- source: 我们 认为, 这样 的 和平 是 可以 实现 的.
+- expected: We believe that such a peace is indeed achievable.
+- got: We believe that this is the peace process.
+
+- source: 我们 再次 要求 立即 释放 他们.
+- expected: We demand once again their immediate release.
+- got: We necessarily discuss Bosnia all the <UNK>
+
+- source: 它 代表 了 黎巴嫩 全国 的 一致 意见.
+- expected: It represents the national consensus of the Lebanese.
+- got: It has set an example of national reconciliation.
+
+- source: 和平 需要 双方 之间 的 互惠互利.
+- expected: It requires reciprocity between both parties.
+- got: Peace is required under common <UNK>
+
+- source: 人们 深切 哀悼 暴力 的 受害者.
+- expected: Its victims were deeply mourned.
+- got: There is a <UNK> of violence <UNK>
+
+- source: 澳大利亚 对 帮助 这 一 进程 感到 自豪.
+- expected: Australia is proud to have assisted that process.
+- got: The message in this does not exist in detail.
+
+- source: 绝 不能 拖延 或 回避 这些 谈判.
+- expected: Those negotiations must not be stalled or avoided.
+- got: These must not be avoided.
+
+- source: 我们 热情 赞扬 和 赞同 他 的 做法.
+- expected: We warmly commend and endorse his approach.
+- got: We have therefore favour increasing the work for <UNK>
+
+- source: 各种 事件 退向 对峙 和 紧张.
+- expected: Events have backslid towards confrontation and tension.
+- got: The incidents at <UNK> and <UNK>
+
+- source: 阿拉伯 民族 安全 是 至关重要 的.
+- expected: Arab national security is of central importance.
+- got: The security of democracy is <UNK>
+
+- source: 这 也 是 阿拉伯 的 选择.
+- expected: It is also the Arab choice.
+- got: This is also the case.
+
+- source: 阿拉伯人 没有 以 这种 武器 威胁 任何 人.
+- expected: Arabs threaten no one with such weapons.
+- got: A <UNK> did not have been reported.
+
+- source: 他们 无论如何 不可能 被 称作 恐怖主义 分子.
+- expected: By no means can they be labelled terrorists.
+- got: They were sent to the <UNK>
+
+- source: 这 不是 我们 的 想象 虚构 的 事.
+- expected: This is not a figment of our imagination.
+- got: This is our <UNK> we all <UNK>
+
+- source: 这 一切 都 在 我们 眼前 发生.
+- expected: This took place before our very eyes.
+- got: This should not be <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 安全理事会 该项 决议 是 明确 的.
+- expected: That Security Council resolution is clear.
+- got: The Security Council is clear to that resolution.
+
+- source: 我们 在 这里 没有 否决权.
+- expected: We have no veto power here.
+- got: We in India close that <UNK>
+
+- source: 如果 合适 的 话, 我 准备 现在 发言.
+- expected: If appropriate, I am ready to speak now.
+- got: If there is now a few brief <UNK>
+
+- source: 现在 我 感觉 舒服 了.
+- expected: I am comfortable now.
+- got: I now call that <UNK>
+
+- source: 现在 我们 继续 进行.
+- expected: We shall now proceed.
+- got: We continue that our <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 副主席 鲍曼尼斯 先生 (拉脱维亚) 担任 主席.
+- expected: Mr. Baumanis (Latvia), Vice-President, took the Chair.
+- got: Mr. <UNK> <UNK> <UNK> <UNK> Vice-President, took the Chair.
+
+- source: 该 邀请 中 没有 列举 其他 决议.
+- expected: No other resolutions are cited in the invitation.
+- got: This has not taken place in the world.
+
+- source: 我 认为 我 已经 发出 了 警告.
+- expected: I think I have sounded that warning.
+- got: I am sure that most delegations share similar <UNK>
+
+- source: 你 应 发挥 斡旋 的 作用.
+- expected: You serve as an office of goodwill.
+- got: You should therefore be a serious <UNK>
+
+- source: 在 战争 中 没有 胜利者.
+- expected: No one wins a war.
+- got: There is no war in <UNK>
+
+- source: 上午 11 时 55 分 散会.
+- expected: The meeting rose at 11.55 a.m.
+- got: The meeting rose at <UNK> a.m.
+
+- source: 也 有 25万 人 因为 地雷 丧失 了 肢体.
+- expected: Around 250,000 people have lost their limbs to landmines.
+- got: There were also a Lebanese <UNK> in Bangladesh.
+
+- source: 副主席 萨姆汉 先生 (阿拉伯联合酋长国) 主持 会议.
+- expected: Mr. Samhan (United Arab Emirates), Vice-President, took the Chair.
+- got: Mr. <UNK> <UNK> <UNK> <UNK> Vice-President, took the Chair.
+
+- source: 应 把 巴基斯坦 补进 提案 国名 单.
+- expected: Pakistan should be added to the sponsors listed.
+- got: <UNK> they would be executed by voluntary contributions.
+
+- source: 下午 4 时 30 分 散会.
+- expected: The meeting rose at 4.30 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 94 个 代表团 参加 了 一般性 辩论.
+- expected: Ninety-four delegations participated in the general debate.
+- got: The General debate on that March 1994,
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 有人 反对 这 一 要求 吗?
+- expected: Is there any objection to that request?
+- got: Article 8 has been <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 没有 人 反对.
+- expected: There are none.
+- got: I see <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 没有 人 反对.
+- expected: There are none.
+- got: I see <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 举行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决:
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 下午 5 时 25 分 散会.
+- expected: The meeting rose at 5.25 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 该项 协议 的 积极 后果 已 显然 易见.
+- expected: The positive results of this Accord are already evident.
+- got: The agreement is now a critical areas for itself.
+
+- source: 错误 增加 我国 人民 的 苦难.
+- expected: Errors increase the suffering of my people.
+- got: But the people we have a <UNK>
+
+- source: 现在 是 和解 的 时候 了.
+- expected: Now is the time for reconciliation.
+- got: Now is the time to look forward.
+
+- source: 我们 不 应该 因此 而 气馁.
+- expected: We must not be discouraged by this.
+- got: We are not divided to <UNK>
+
+- source: 这个 世界 非常 不公平.
+- expected: The world is grossly unjust.
+- got: This world is very <UNK>
+
+- source: 德国 愿意 在 军事 方面 提供 支助.
+- expected: Germany is willing to provide a military contribution.
+- got: Germany is providing a military operations;
+
+- source: 其中 一 项 是 另 一 项 的 先决条件.
+- expected: The one is the precondition for the other.
+- got: A second computer expert is an important <UNK>
+
+- source: 它 不能 解决 每一个 问题.
+- expected: It cannot solve every problem.
+- got: It cannot be left <UNK>
+
+- source: 突出 的 例子 是 南部 非洲 的 南部 非洲发展共同体.
+- expected: The outstanding example is southern Africa with the SADC.
+- got: It is a <UNK> of African countries that <UNK>
+
+- source: 这 是 我们 的 共同 努力.
+- expected: That is our common endeavour.
+- got: This is our common responsibility.
+
+- source: 我们 只能 共同 成功 或 共同 失败.
+- expected: We can only succeed together or fail together.
+- got: We have a common origin in <UNK>
+
+- source: 有 近 2 500 000 穆斯林 人 住在 德国.
+- expected: Close to 2.5 million Muslims are living in Germany.
+- got: There were around <UNK> to be responsible.
+
+- source: 9月 2日 被 定 为 世界 儿童 日.
+- expected: Universal Children's Day was observed on 20 September.
+- got: Tuesday, 13 September to the world order.
+
+- source: 2 000 000 儿童 被迫 卖淫.
+- expected: Two million are forced into prostitution.
+- got: <UNK> of children abducted by family members;
+
+- source: 必须 禁止 这种 具有 潜在 危险 的 谋杀 工具.
+- expected: These treacherous tools of murder must be banned.
+- got: This principle must be maintained.
+
+- source: 我们 对 他们 感到 骄傲.
+- expected: We are proud of them.
+- got: We are grateful to their <UNK>
+
+- source: 联合国 的 正常 预算 没有 任何 增加.
+- expected: The regular United Nations budget shows zero growth.
+- got: The United Nations can offer such a specific <UNK>
+
+- source: 已经 取得 了 如此 众多 的 成就.
+- expected: So much has already been achieved.
+- got: A second shipment has been achieved.
+
+- source: 它 有 官僚主义 和 抵制 变革 的 问题.
+- expected: It suffers from bureaucracy and resistance to change.
+- got: It has a <UNK> of opportunity and positive <UNK>
+
+- source: 我们 需要 联合国 作为 一 个 聚会 点.
+- expected: We need the United Nations as a meeting place.
+- got: We need a United Nations peace-keeping activities;
+
+- source: 没有 政治 领导, 不可能 实行 必要 的 变革.
+- expected: Without political leadership, the necessary changes cannot be made.
+- got: No such bodies have not been very <UNK>
+
+- source: 支付 的 意愿 正在 下降.
+- expected: The willingness to pay is decreasing.
+- got: An agenda is <UNK>
+
+- source: 发展 援助 处于 几十 年 来 的 最低点.
+- expected: Development assistance is at its lowest level in decades.
+- got: Development of the global cooperation is a <UNK>
+
+- source: 它们 完全 无视 停火 和政 治 解决 方案.
+- expected: They totally ignore cease-fires and political settlements.
+- got: They have therefore participated in the cease-fire <UNK>
+
+- source: 应 销毁 它们 的 库存.
+- expected: Stockpiles should be destroyed.
+- got: They should be <UNK>
+
+- source: 大国 正在 调整 相互 之间 的 关系.
+- expected: Major Powers are readjusting their relationships.
+- got: The era is being <UNK>
+
+- source: 但 通往 和平 的 道路 是 曲折 的.
+- expected: But the path towards peace is tortuous.
+- got: But the road to be a <UNK>
+
+- source: 改革 应 采取 民主 协商 的 办法.
+- expected: Democratic consultations should be practiced throughout this process.
+- got: A second company in the need for action.
+
+- source: 香港 将 保持 长期 稳定 和 繁荣.
+- expected: Its long-term stability and prosperity will be guaranteed.
+- got: <UNK> and maintaining infrastructure, particularly in rural areas;
+
+- source: 外国 在 香港 的 经济 利益 将 得到 照顾.
+- expected: Foreign economic interests in Hong Kong will be accommodated.
+- got: Foreign mercenaries are still in South Africa.
+
+- source: 但 这些 收益 有 其 负面 影响.
+- expected: But these benefits have adverse effects.
+- got: But these things had all concerned.
+
+- source: 要 制止 这种 现象, 国际 合作 必不可少.
+- expected: International cooperation is indispensable to stem this phenomenon.
+- got: He does not speak of international <UNK>
+
+- source: 法国 最近 加强 了 针对 洗钱 的 金融 立法.
+- expected: France recently strengthened its financial legislation against money-laundering.
+- got: French Contribution in the Caribbean <UNK> have been significant.
+
+- source: 国际 合作 必须 是 坚固 的.
+- expected: International cooperation must be solid.
+- got: International cooperation must be <UNK>
+
+- source: 制裁 是 这些 工具 之一.
+- expected: Sanctions constitute one of these instruments.
+- got: These sanctions were imprisonment these <UNK>
+
+- source: 加强 欧洲 联盟 则 使 这个 进程 得以 继续.
+- expected: It is being continued by deepening the Union.
+- got: Europe the following process has started <UNK>
+
+- source: 当然, 普遍性 不 应该 导致 一致性.
+- expected: Universality, however, must not lead to uniformity.
+- got: The problems should not be explored.
+
+- source: 法国 对 非洲 的 前途 有信心.
+- expected: France believes in Africa's future.
+- got: French Contribution in the <UNK>
+
+- source: 让 我们 不要 错过 它.
+- expected: Let us not spoil it.
+- got: Let us not <UNK>
+
+- source: 委员会 未经 表决 通过 了 该 决议 草案.
+- expected: The Committee adopted the draft resolution without a vote.
+- got: The Committee adopted the draft resolution without a vote.
+
+- source: 有人 要求 举行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 举行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 有人 要求 举行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 举行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 有人 要求 举行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 举行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 委员会 未经 表决 通过 了 决议 草案 二.
+- expected: The Committee adopted draft resolution II without a vote.
+- got: The Committee adopted draft resolution III without a vote.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 我们 遗憾 地 对 修正案 投 了 反对票.
+- expected: We voted against the amendment with regret.
+- got: We shall recall below a specific <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 该 委员会 未经 表决 通过 了 该项 决议 草案.
+- expected: The Committee adopted the draft resolution without a vote.
+- got: The Committee adopted the draft resolution without a vote.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 作为 主席, 我 严守 中立 和 公正.
+- expected: As Chairman, I have observed strict neutrality and impartiality.
+- got: As Chairman, I thank all members.
+
+- source: 这 就是 所 发生 的 情况.
+- expected: That is the situation as it occurred.
+- got: This is the result of all.
+
+- source: 这 是 一 项 历史 责任.
+- expected: This is a historic responsibility.
+- got: It is a commitment.
+
+- source: 决议 草案 一 题 为 西撒哈拉 问题.
+- expected: Draft resolution I is entitled Question of Western Sahara.
+- got: The draft resolution could not be <UNK>
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 这项 铲除 殖民主义 的 高尚 使命 尚未 完成.
+- expected: This noble mission of eradicating colonialism remains unaccomplished.
+- got: This is not an <UNK> but an <UNK>
+
+- source: 然而, 拖延 却 长 得 异乎寻常.
+- expected: However, the delay has been inordinately long.
+- got: However, the first <UNK> were high.
+
+- source: 但 这 还不是 唯 一 的 问题.
+- expected: But that is not the only problem.
+- got: But that is the only <UNK>
+
+- source: 有人 要求 举行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 举行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 下午 12 时 25 分 散会.
+- expected: The meeting rose at 12.25 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 第五委员会 未经 表决 通过 了 该项 决议 草案.
+- expected: The Committee adopted the draft resolution without a vote.
+- got: The Committee adopted the draft resolution without a vote.
+
+- source: 我 希望 大会 也 将 这样 做.
+- expected: I hope that the Assembly will do likewise.
+- got: I hope that the Assembly will do so.
+
+- source: 副主席 马比兰甘 先生 (菲律宾) 主持 会议.
+- expected: Mr. Mabilangan (Philippines), Vice-President, took the Chair.
+- got: Mr. <UNK> <UNK> <UNK> <UNK> Vice-President, took the Chair.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 然而, 有 相当 大 的 改进 余地.
+- expected: There is, however, considerable room for improvement.
+- got: However, there is still a considerable effort.
+
+- source: 批准 全权 证书 委员会 的 第二次 报告.
+- expected: Approves the second report of the Credentials Committee.
+- got: Approves the second report of the Credentials Committee.
+
+- source: 以上 仅仅 是 少数 例子.
+- expected: Those are just a few examples.
+- got: These are <UNK> above <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 因此 我们 投 了 弃权 票.
+- expected: We therefore abstained in the vote.
+- got: We therefore favour maintaining the <UNK>
+
+- source: 我们 今天 所 面临 的 情况 是 独特 的.
+- expected: The situation we are facing today is unique.
+- got: Our position is the same that we are <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 发展 也 获得 了 新 的 机会.
+- expected: Development also was given a new opportunity.
+- got: Development also has new ground.
+
+- source: 在 波斯尼亚 也 避免 作出 艰难 的 选择.
+- expected: In Bosnia, too, hard choices were avoided.
+- got: The Bosnian Serbs have also lost <UNK>
+
+- source: 侵犯 人权 的 暴行 达到 前所未有 的 程度.
+- expected: Atrocities in violation of human rights reached unprecedented levels.
+- got: Human rights abuses against innocent civilians <UNK>
+
+- source: 出现 种族 清洗 的 恐怖 现象.
+- expected: The horror of ethnic cleansing emerged.
+- got: <UNK> has been <UNK> out.
+
+- source: 现在 也 可看 清 前面 的 道路.
+- expected: The path forward can now be seen.
+- got: The time has now been <UNK>
+
+- source: 下降 的 趋势 已 被 打断.
+- expected: The downward trend has been broken.
+- got: <UNK> trends have become more <UNK>
+
+- source: 一些 老 的 问题 似乎 已经 解决.
+- expected: Some old problems appear to be solved.
+- got: Some remarks would be rights in <UNK>
+
+- source: 最为 直接 的 是 财政危机 的 继续.
+- expected: Most immediately, the financial crisis continues.
+- got: Most of the authority was a resource <UNK>
+
+- source: 第五个 原则 即 是 独立.
+- expected: A fifth principle is independence.
+- got: It is a matter that situation.
+
+- source: 第1090 (1996) 号 决议 如下:
+- expected: Resolution 1090 (1996) reads as follows:
+- got: (b) The resolution <UNK> of the following:
+
+- source: 第1091 (1996) 号 决议 如下:
+- expected: Resolution 1091 (1996) reads as follows:
+- got: (b) The resolution <UNK> of the following:
+
+- source: 这个 辩论 不会 结束.
+- expected: The debate will not finish.
+- got: This debate so far that:
+
+- source: 他 已 引导 本 组织 走上 正确 的 方向.
+- expected: He has pointed our Organization in the right direction.
+- got: He has always had been signed by 47 States.
+
+- source: 副主席 图奎斯特 先生 (巴哈马) 主持 会议.
+- expected: Mr. Turnquest (Bahamas), Vice-President, took the Chair.
+- got: Mr. <UNK> <UNK> <UNK> <UNK> Vice-President, took the Chair.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 我国 是 该 决议 草案 的 提案 国.
+- expected: My country is a sponsor of this draft resolution.
+- got: My draft resolution is based on the draft resolution.
+
+- source: 这 违背 了 我们 的 基本 价值观 和 信念.
+- expected: This is against our basic values and convictions.
+- got: This is contrary to our full and <UNK>
+
+- source: 政府 不 应有 这个 权力.
+- expected: Governments should not have that right.
+- got: This Government should not <UNK>
+
+- source: 再 补充 一 个 纪念日 没有 什么 意义.
+- expected: To add another day does not make much sense.
+- got: The principle has no one <UNK>
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 下午 6 时 35 分 散会.
+- expected: The meeting rose at 6.35 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 在 众多 非正式 磋商 中 进行 了 各种 谈判.
+- expected: Negotiations were carried out through numerous informal consultations.
+- got: In virtually every case, these points in November 1991.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 决定 草案 获得 通过.
+- expected: Draft decision I was adopted.
+- got: The draft decision was adopted.
+
+- source: 决定 草案 二 获得 通过.
+- expected: Draft decision II was adopted.
+- got: Draft decision II was adopted.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 对此, 我们 不能 接受.
+- expected: We cannot accept that.
+- got: It is our support.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 我们 致力于 促进 和 保卫 这些 一致 意见.
+- expected: We are committed to fostering and defending these accords.
+- got: We are committed to these and there be approved.
+
+- source: 这 方面 的 例子 举不胜举.
+- expected: The examples go on and on.
+- got: This is a <UNK>
+
+- source: 决定 草案 获得 通过.
+- expected: The draft decision was adopted.
+- got: The draft decision was adopted.
+
+- source: 下午 11 时 35 分 散会.
+- expected: The meeting rose at 11.35 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 我 非常 满意 地表 明 这 两 点.
+- expected: I make both of these statements with great satisfaction.
+- got: I do not explain <UNK> to that two <UNK>
+
+- source: 令人 遗憾 的 是, 情况 并非如此.
+- expected: Unfortunately, this is not the case.
+- got: Unfortunately, this has not been the case.
+
+- source: 双方 已 提出 了 他们 的 论点.
+- expected: Both parties have presented their arguments.
+- got: Both communities have been have been widely disseminated <UNK>
+
+- source: 副主席 阿兹瓦伊 (阿拉伯 利比亚 民众 国) 主持 会议.
+- expected: Mr. Azwai (Libyan Arab Jamahiriya), Vice-President, took the Chair.
+- got: Mr. <UNK> <UNK> <UNK> <UNK> Vice-President, took the Chair.
+
+- source: 前景 并不 令人 鼓舞.
+- expected: The outlook is not encouraging.
+- got: <UNK> are not available.
+
+- source: 我们 现在 就 必须 开始 采取 行动.
+- expected: We must begin to act now.
+- got: We shall now take action on that recommendation.
+
+- source: 这 一 情况 正 开始 改变.
+- expected: This is beginning to change.
+- got: This situation has particular significance.
+
+- source: 这 才是 改革 的 真正 意义.
+- expected: This is the real meaning of reform.
+- got: This is a truly massive <UNK>
+
+- source: 我们 拥有 历史, 远见 和 领导 才干.
+- expected: We have the history, the vision and the leadership.
+- got: We are experiencing from now and <UNK>
+
+- source: 此外, 我们 都 清楚 地 意识到 紧迫性.
+- expected: Moreover, the urgency is clearly seen by us all.
+- got: Furthermore, we all have a right to <UNK>
+
+- source: 还 需要 作 更多 的 事情.
+- expected: Much more needs to be done.
+- got: Additional more still need to be needed.
+
+- source: 我 想 接着谈 裁军.
+- expected: My next point is disarmament.
+- got: I want to speak <UNK>
+
+- source: 我们 应 努力 进一步 改进 这个 裁军 机构.
+- expected: We should strive to improve further the disarmament machinery.
+- got: We should strive to achieve that objective.
+
+- source: 副主席 萨利夫 先生 (尼日尔) 主持 会议.
+- expected: Mr. Salifou (Niger), Vice-President, took the Chair.
+- got: Mr. <UNK> <UNK> <UNK> <UNK> Vice-President, took the Chair.
+
+- source: 今后 应 给予 区域性 组织 更大 的 责任.
+- expected: Greater responsibility should henceforth be given to regional organizations.
+- got: The future of future development should be <UNK>
+
+- source: 这 一 努力 应 得到 加强 和 进一步 推进.
+- expected: This effort should be strengthened and further pursued.
+- got: This should be further strengthened.
+
+- source: 我们 不能 再 漠视 这 一 形势.
+- expected: We cannot remain indifferent to this situation.
+- got: We cannot be that our own <UNK>
+
+- source: 内部 冲突 使 非洲 许多地区 饱受 蹂躏.
+- expected: Civil conflicts have ravaged many parts of Africa.
+- got: Internal in particular, were distributed to African countries.
+
+- source: 我们 从未 听 过 如此 矛盾 的 逻辑.
+- expected: We have never heard such contradictory logic.
+- got: We have never lost that our European <UNK>
+
+- source: 下午 5 时 40 分 散会.
+- expected: The meeting rose at 5.40 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 很 清楚, 还 需 作出 进一步 的 努力.
+- expected: It is clear that further efforts are still required.
+- got: Further support is also further in that regard.
+
+- source: 因此, 附注 5 的 内容 将 改为:
+- expected: Accordingly, footnote 5 will be changed to read:
+- got: Article <UNK> Replace subparagraph (f) with the following:
+
+- source: 主席 能否 证实 这种 理解?
+- expected: Could the Chair confirm that understanding?
+- got: That the following facts.
+
+- source: 下午 4 时 35 分 散会.
+- expected: The meeting rose at 4.35 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 我们 大家 都 应该 同意 这 一发 言.
+- expected: We should all agree with that statement.
+- got: We should strive to all that this objective.
+
+- source: 让 我们 简要 回顾 一下 这些 主要 成就.
+- expected: Let us take a brief look at the highlights.
+- got: Let us be guided by these main objectives.
+
+- source: 我们 最好 不要 改变 这种 做法.
+- expected: Let us not fool with it.
+- got: We do not have that capacity now.
+
+- source: 我们 所有 国家 都 非常 关切 核 裁军.
+- expected: We all have a vital interest in nuclear disarmament.
+- got: We all States have a sound national policy.
+
+- source: 这 具体 指 的 是 以色列.
+- expected: That was a specific reference to Israel.
+- got: This represents an increase of the category.
+
+- source: 这 是 一 个 不容置疑 的 事实.
+- expected: This is a fact that cannot be challenged.
+- got: This is a <UNK> act.
+
+- source: 我们 都 希望 各项 讨论会 有 圆满 的 结局.
+- expected: We all hope that discussions have a fruitful outcome.
+- got: We hope that all are still without a <UNK>
+
+- source: 第二, 他们 需要 与 各派 进行 直接 谈判.
+- expected: Secondly, they needed direct negotiations with the parties.
+- got: Secondly, they will require <UNK> in Bangladesh.
+
+- source: 因此, 我 希望, 我们 已经 解决 了 这个 问题.
+- expected: I hope, therefore, that the problem is behind us.
+- got: I am convinced that this can therefore be done.
+
+- source: 我们 现在 处理 是 十分 具体 的 主题.
+- expected: We are dealing here with very specific subject-matter.
+- got: We have now that we shall now very <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 第三, 第一委员会 是 来 讨论 裁军 的.
+- expected: Thirdly, the First Committee is meant to discuss disarmament.
+- got: Thirdly, the need for increased we is <UNK>
+
+- source: 我们 都 看见 了 所 发生 的 事情.
+- expected: We have all seen what has taken place.
+- got: We have all the facts in that regard.
+
+- source: 地雷 是 针对 人类 的 武器.
+- expected: Landmines are weapons targeting human beings.
+- got: Land-mines are the road ahead.
+
+- source: 因此 不能 认为 地雷 是 人道 的.
+- expected: They cannot therefore be considered humanitarian.
+- got: The commitment must not be more than ever.
+
+- source: 地雷 已经 成为 许多 恐怖主义 团体 的 武器.
+- expected: Landmines have become the weapons of many terrorist groups.
+- got: Land-mines are already enough institutions.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 这 正是 埃及 的 问题.
+- expected: That is precisely Egypt's problem.
+- got: This is a matter of concern.
+
+- source: 第一, 谈判 机构.
+- expected: First, the negotiating body.
+- got: First, there is peace.
+
+- source: 这 方面 我们 必须 始终 一致.
+- expected: In that respect, we must be consistent.
+- got: That is ready for <UNK>
+
+- source: 我们 想 保留 住 这 一 立场.
+- expected: We wish to capture that position.
+- got: We want to stress that this approach.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 我们 现在 对 一 项 决议 草案 表决.
+- expected: We are now voting on a draft resolution.
+- got: We shall now vote against the draft resolution.
+
+- source: 到 目前 为止 我们 尚未 对 其 进行 投票.
+- expected: We have not so far voted on it.
+- got: No reply has been received to our own <UNK>
+
+- source: 我 只想 清楚 地 说明 这 一点.
+- expected: I just wanted this to be clear.
+- got: I am confident that this can be <UNK>
+
+- source: 的 目标 也 同样 难以 接受.
+- expected: is equally difficult to accept.
+- got: The same applies to the same however.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 但是, 我们 没有 这样 做.
+- expected: However, we refrained from doing so.
+- got: But we are not united <UNK>
+
+- source: 下午 1 时 20 分 散会.
+- expected: The meeting rose at 1.20 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 没有 代表团 要求 发言.
+- expected: I see there are none.
+- got: There are no further speakers.
+
+- source: 第3段 采取 的 办法 因而 是 行不通 的.
+- expected: The approach adopted in paragraph 3 is therefore invalid.
+- got: The third preambular paragraph would have its own <UNK>
+
+- source: 法国 将 继续 以 这种 方式 采取 行动.
+- expected: France will continue to act in this way.
+- got: France will continue to be take this initiative.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 这些 考虑 致使 我们 弃权.
+- expected: These considerations led us to abstain.
+- got: These efforts deserve our <UNK>
+
+- source: 没有 人 要 发言.
+- expected: I see there are none.
+- got: There are no further speakers.
+
+- source: 光 为 这些 原因, 也 不能 忽视 中亚.
+- expected: For these reasons alone, Central Asia cannot be ignored.
+- got: No such limitation is not to <UNK>
+
+- source: 它们 已经 单独 或者 集体 发起 若干 项 行动.
+- expected: Several initiatives individual or collective have been launched.
+- got: They have also participated effectively in their effectiveness.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 该 案文 的 内容 现 为:
+- expected: The text would now read:
+- got: The text should read:
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 自从 该 制度 设立 以来, 中国 一直 参加 登记.
+- expected: China has participated in the Register since its establishment.
+- got: Two hundred and <UNK> programme system in that recommendation.
+
+- source: 这些 要求 还 没有 得到 满足.
+- expected: These requirements have yet to be fulfilled.
+- got: These recommendations have not yet been met.
+
+- source: 因此 我们 对 该 决议 草案 投 了 赞成票.
+- expected: We therefore voted in favour of the draft resolution.
+- got: We therefore recommend that the draft resolution for resolution.
+
+- source: 更加 详细 的 报告 需要 有 区域 解决 办法.
+- expected: More detailed reporting will require a regional settlement.
+- got: There is a regional differences in the regional commissions.
+
+- source: 还 增加 了 序言 部分 最后 一 个 段落.
+- expected: A last preambular paragraph has also been added.
+- got: The last session was taken by the matter.
+
+- source: 行文 如下:
+- expected: It reads:
+- got: - To <UNK>
+
+- source: 执行 部分 第4段 也 有 改动.
+- expected: Operative paragraph 4 has been changed.
+- got: Operative paragraph 4 was also <UNK>
+
+- source: 去年 的 案文 是:
+- expected: Last year's text reads:
+- got: Last statement is as follows:
+
+- source: 因此 该 案文 现在 如下:
+- expected: The text thus reads:
+- got: The text should therefore read:
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 我们 设法 写出 一份 比较 好 的 草案.
+- expected: We tried to draft a reasonably good one.
+- got: We shall now ask for this <UNK>
+
+- source: 但是, 我 的 理解 或许 不正 确.
+- expected: However, perhaps my understanding is not correct.
+- got: However, I should not be <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对:
+- expected: Against:
+- got: Against:
+
+- source: 弃权:
+- expected: Abstaining:
+- got: <UNK>
+
+- source: 我们 绝 不能 同意 这种 观点.
+- expected: We cannot disagree more with this view.
+- got: We must not agree with them.
+
+- source: 新 的 段落 是:
+- expected: That new paragraph reads:
+- got: New Zealand were <UNK>
+
+- source: 第5段 的 案文 是:
+- expected: Paragraph 5 reads as follows:
+- got: The revised negotiating text should <UNK>
+
+- source: 裁军 谈判 会议 是 一 个 谈判 机构.
+- expected: The Conference on Disarmament is a negotiating body.
+- got: Disarmament Conference is a session of an important issue.
+
+- source: 这 是 一份 妥协 案文.
+- expected: It is a compromise text.
+- got: This is a theme that bears consideration.
+
+- source: 马来西亚 也 是 这个 决议 草案 的 提案 国.
+- expected: The draft resolution is also sponsored by Malaysia.
+- got: The draft resolution is also about this draft resolution.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 然而 我 希望 该 修正案 被 撤回.
+- expected: However, I wish this amendment were withdrawn.
+- got: But I hope that that will be <UNK>
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 这 两者 事实上 都 处于 僵局.
+- expected: Both are actually at an impasse.
+- got: This is all very <UNK>
+
+- source: 提出 了 一些 相互 竞争 的 决议 草案.
+- expected: Several competing draft resolutions were also floating around.
+- got: Some remarks are being established in the draft resolution.
+
+- source: 因此, 我们 将 支持 该 决议 草案.
+- expected: Therefore, we will support the draft resolution.
+- got: Consequently, we will therefore support it.
+
+- source: 有人 要求 进行 记录 表决.
+- expected: A recorded vote has been requested.
+- got: A recorded vote has been requested.
+
+- source: 进行 了 记录 表决.
+- expected: A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 下午 5 时 40 分 散会.
+- expected: The meeting rose at 5.40 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 目前 的 局势 并非 一 夜 而 成.
+- expected: The present situation has not come about overnight.
+- got: The situation is not a <UNK>
+
+- source: 而 另一方面, 该 报告 却是 不完全 的.
+- expected: Yet, on the other hand, the report is incomplete.
+- got: And it is addressed on this item <UNK>
+
+- source: 它 的 作用 应 进一步 得到 鼓励 和 促进.
+- expected: Its role should be further encouraged and promoted.
+- got: It should be further strengthened.
+
+- source: 我们 希望 其他 国家 也 将 这样 做.
+- expected: We hope that other countries will do the same.
+- got: We hope that others will do the same.
+
+- source: 南极洲 具有 旅游业 所需 的 基础 设施.
+- expected: Antarctica has no infrastructure to cope with tourism.
+- got: Finally, a compromise was achieved.
+
+- source: 有 任何 意见 吗?
+- expected: Are there any comments?
+- got: There was no problems.
+
+- source: 我们 完全 同意 马来西亚 代表 的 意见.
+- expected: We fully agree with the representative of Malaysia.
+- got: We fully endorse the representative of our statement.
+
+- source: 这 不是 一 件 轻而易举 的 任务.
+- expected: It was not an easy task.
+- got: This is an easy task.
+
+- source: 我 认为, 需要 采取 新 的 做法.
+- expected: In my opinion, a new approach is called for.
+- got: I need a new instruments for peace.
+
+- source: 上午 11 时 40 分 散会.
+- expected: The meeting rose at 11.40 a.m.
+- got: The meeting rose at <UNK> a.m.
+
+- source: 下午 1 时 15 分 散会.
+- expected: The meeting rose at 1.15 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 非洲 国家 两 名 成员;
+- expected: Two members from the African States;
+- got: Africa has two States <UNK>
+
+- source: 亚洲 国家 两 名 成员;
+- expected: Two members from the Asian States;
+- got: Asian countries are given by some <UNK>
+
+- source: 3.各 会员国 提出 了 下列 候选人:
+- expected: 3. Member States have submitted the following candidatures:
+- got: <UNK> The following account was also <UNK>
+
+- source: (a) 非洲 国家 的 空缺:
+- expected: (a) For the vacancies for the African States:
+- got: (a) Eight seats for African States;
+
+- source: (b) 亚洲 国家 的 空缺:
+- expected: (b) For the vacancies for the Asian States:
+- got: (b) Seven seats for Asian States;
+
+- source: 获得 法语 口译员 ‘ A ’ 等 证书.
+- expected: Obtained "A" grade certificate as French interpreter.
+- got: The representatives <UNK> the following publications:
+
+- source: 1970年 至 1971年 巴基斯坦 外交部 处长, 伊斯兰堡.
+- expected: 1970-1971 Director, Ministry of Foreign Affairs, Islamabad, Pakistan.
+- got: The Pakistan <UNK> the following countries of their <UNK>
+
+- source: 1961年 加入 职业 外交 服务.
+- expected: 1961 Joined career diplomatic service.
+- got: They services to the job <UNK>
+
+- source: 婚姻 状况 已婚, 子女 三 人.
+- expected: MARITAL STATUS Married, with three children.
+- got: The three <UNK> were assuming more <UNK>
+
+- source: - 会议 委员会 副主席, 1993年 和 1995年;
+- expected: Vice-Chairman of the Committee on Conferences, 1993 and 1995;
+- got: - <UNK> and 1993 by the following 1993 included:
+
+- source: - 联合国 方案 和 协调 委员会 副主席, 1992年;
+- expected: Vice-Chairman of the Committee for Programme and Coordination, 1992;
+- got: - United Nations mandate and coordination of the United Nations
+
+- source: - 会议 委员会 报告员, 1994年.
+- expected: Rapporteur of the Committee on Conferences, 1994.
+- got: - by the Committee of the Commission.
+
+- source: - 安全理事会, 1992年 和 1993年;
+- expected: Security Council, 1992 and 1993;
+- got: - <UNK> and <UNK> <UNK>
+
+- source: - 第二委员会 [经济 问题], 1983年 和 1984年;
+- expected: Second Committee (economic and financial questions), 1983 and 1984;
+- got: <UNK> and <UNK> Island are mainly to <UNK>
+
+- source: - 第四委员会 [非殖民化 问题], 1994年 至今;
+- expected: Fourth Committee (decolonization) from 1994 to the present;
+- got: <UNK> shall be issued in English, on 29 July.
+
+- source: - 联合国儿童基金会: 1985年 4月;
+- expected: United Nations Children's Fund: April 1985;
+- got: <UNK> <UNK> of the <UNK>
+
+- source: - 联合国新闻委员会: 1985年 3月, 1994年 5月;
+- expected: Committee on Information: March 1985, May 1994;
+- got: <UNK> <UNK> was issued in 1994;
+
+- source: 我们 还有 三 个 副主席 职位 缺人.
+- expected: We still have three open vice-chairmanships.
+- got: We therefore are three <UNK> <UNK>
+
+- source: 我 是否 可 认为 各位 成员 同意 这样 做?
+- expected: May I take it that members so agree?
+- got: I do not think I expressed that <UNK>
+
+- source: 我们 保证 同 你 的 努力 全力 合作.
+- expected: We pledge our full cooperation with your efforts.
+- got: We wish you well in our full cooperation.
+
+- source: 经 口头 订正 的 临时 议程 获得 通过.
+- expected: The provisional agenda, as orally revised, was adopted.
+- got: The agenda as orally <UNK> was adopted.
+
+- source: 我们 应 在 今后 避免 进一步 的 对抗.
+- expected: We should avoid further confrontations in the future.
+- got: We shall be further in the future <UNK>
+
+- source: 我们 当然 会 予以 处理.
+- expected: We will certainly work on it.
+- got: We hope that will be <UNK>
+
+- source: 委员会 必须 取得 成果.
+- expected: The Commission must obtain results.
+- got: The Committee must <UNK>
+
+- source: 我们 合并 了 关于 方式 方法 的 章节.
+- expected: We consolidated the chapter on ways and means.
+- got: We have noted that the number of Economic <UNK>
+
+- source: 事不宜迟, 需要 取得 进一步 的 进展.
+- expected: Further progress is needed, and without undue delay.
+- got: <UNK> further progress needs to be made.
+
+- source: 上午 11 时 05 分 散会.
+- expected: The meeting rose at 11.05 a.m.
+- got: The meeting rose at <UNK> a.m.
+
+- source: 我 的 发言 将 简短.
+- expected: I shall be brief.
+- got: I shall be <UNK>
+
+- source: 我 将 不 重复 该 文件 中 的 细节.
+- expected: I will not repeat the details in that paper.
+- got: I would like now to the interim <UNK>
+
+- source: 我 还 感谢 秘书 处 的 努力.
+- expected: I also thank the Secretariat for their efforts.
+- got: I am sure the Secretariat will also <UNK>
+
+- source: 挪威 完全 赞同 这 一发 言.
+- expected: Norway fully associates itself with that statement.
+- got: The delegation fully <UNK>
+
+- source: 主席 的 文件 是 十分 平衡 的.
+- expected: The Chairman's paper is very balanced.
+- got: The consequences of the plebiscite are well known.
+
+- source: 我 最后 要谈 一 谈 程序 问题.
+- expected: My last remark is a procedural question.
+- got: I am sure the final <UNK>
+
+- source: 我们 非常 感谢 他.
+- expected: We thank him very much.
+- got: <UNK> we are very <UNK>
+
+- source: 下午 12 时 55 分 散会.
+- expected: The meeting rose at 12.55 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 经过 口头 修正 的 报告 获得 通过.
+- expected: The report, as orally revised, was adopted.
+- got: Paragraph 10, as orally <UNK> was adopted.
+
+- source: 该 磋商 小组 正 由 印度尼西亚 领导.
+- expected: This consultation group is being led by Indonesia.
+- got: It is composed of the issue.
+
+- source: 第1 - 3 段 获得 通过.
+- expected: Paragraphs 1 to 3 were adopted.
+- got: Paragraph 1 was adopted.
+
+- source: 第4 至 第17段 获得 通过.
+- expected: Paragraphs 4 to 17 were adopted.
+- got: 4. Paragraphs 1 to 6 were adopted.
+
+- source: 第18 至 26 段 获得 通过.
+- expected: Paragraphs 18 to 26 were adopted.
+- got: The draft decision was adopted.
+
+- source: 第27 至 31 段 获得 通过.
+- expected: Paragraphs 27 to 31 were adopted.
+- got: Paragraphs 1 to 6 were adopted.
+
+- source: 经 口头 修正 的 报告 草案 获得 通过.
+- expected: The draft report, as orally revised, was adopted.
+- got: The draft report, as orally <UNK> was adopted.
+
+- source: 今年 的 成就 只是 一 个 开始.
+- expected: This year's achievements are only a beginning.
+- got: This year the achievements of the world.
+
+- source: 显然, 没有 一致 意见 就是 没有 一致 意见.
+- expected: Obviously, nothing is agreed until it is agreed.
+- got: There is no time to be adopted without hope.
+
+- source: 前面 的 发言者 向 他 转达 了 这种 看法.
+- expected: That message was conveyed to him by previous speakers.
+- got: The text has now been a serious <UNK>
+
+- source: 这 就是 我 想 说 的 话.
+- expected: That is all I wish to say.
+- got: That is what I wished to <UNK>
+
+- source: 我 重复, 我们 不应 使 这 一事 项 过分戏剧化.
+- expected: I repeat that we should not overdramatize the matter.
+- got: I should now to do not deserve our <UNK>
+
+- source: 因此 它 是 一 项 妥协 方案.
+- expected: It therefore represents a compromise formula.
+- got: It is a challenge to be a statement.
+
+- source: 不知道 其他 代表团 是否 也 能 这样 做?
+- expected: I wonder whether other delegations could do that?
+- got: Several other members indicated their agreement on that point.
+
+- source: 我们 愿意 接受 任何 建议.
+- expected: We are open to any suggestion.
+- got: We should accept that decision.
+
+- source: 我 谨 回顾, 这个 事项 有待 决定.
+- expected: I would recall that this matter is pending.
+- got: I am sure the following this <UNK>
+
+- source: 上午 10 时 30 分 开会.
+- expected: Wednesday, 11 December 1996, 10 a.m.
+- got: The meeting rose at <UNK> a.m.
+
+- source: 上午 10 时 40 分 散会.
+- expected: The meeting rose at 10.40 a.m.
+- got: The meeting rose at <UNK> a.m.
+
+- source: 为此 目的, 在 国家 一 级, 我们 将:
+- expected: To this end, at the national level, we will:
+- got: To that end at the national level, we shall:
+
+- source: 在 国际 一 级, 我们 将:
+- expected: At the international level, we will:
+- got: At the international level, we shall:
+
+- source: 在 国际 一 级, 我们 将:
+- expected: At the international level, we will:
+- got: At the international level, we shall:
+
+- source: 为此 目的, 在 国家 一 级, 我们 将:
+- expected: To this end, at the national level, we will:
+- got: To that end at the national level, we shall:
+
+- source: 在 国际 一 级, 我们 将:
+- expected: At the international level, we will:
+- got: At the international level, we shall:
+
+- source: 为此 目的, 在 国家 一 级, 我们 将:
+- expected: To this end, at the national level, we will:
+- got: To that end at the national level, we shall:
+
+- source: 在 国际 一 级, 我们 将:
+- expected: At the international level, we will:
+- got: At the international level, we shall:
+
+- source: 为此 目的, 在 国家 一 级, 我们 将:
+- expected: To this end, at the national level, we will:
+- got: To that end at the national level, we shall:
+
+- source: 在 国际 一 级, 我们 将:
+- expected: At the international level, we will:
+- got: At the international level, we shall:
+
+- source: 为此 目的, 在 国家 一 级, 我们 将:
+- expected: To this end, at the national level, we will:
+- got: To that end at the national level, we shall:
+
+- source: 在 国际 一 级, 我们 将:
+- expected: At the international level, we will:
+- got: At the international level, we shall:
+
+- source: 对于 创造性 应予 确认 和 倡导.
+- expected: Creativity should be recognized and promoted;
+- got: This should be sought from the <UNK>
+
+- source: 为此 目的, 我们 将:
+- expected: To this end, we will:
+- got: To that end we shall:
+
+- source: 为此 目的, 在 国家 一 级, 我们 将:
+- expected: To this end, at the national level, we will:
+- got: To that end at the national level, we shall:
+
+- source: 在 国际 一 级, 我们 将:
+- expected: At the international level, we will:
+- got: At the international level, we shall:
+
+- source: 为此 目的, 在 国家 一 级, 我们 将:
+- expected: To this end, at the national level, we will:
+- got: To that end at the national level, we shall:
+
+- source: 在 国际 一 级, 我们 将:
+- expected: At the international level, we will:
+- got: At the international level, we shall:
+
+- source: 为此 目的, 在 国家 一 级, 我们 将:
+- expected: To this end, at the national level, we will:
+- got: To that end at the national level, we shall:
+
+- source: 在 区域 一 级, 我们 将:
+- expected: At the regional level, we will:
+- got: At the regional level were <UNK>
+
+- source: 在 国际 一 级, 我们 将:
+- expected: At the international level, we will:
+- got: At the international level, we shall:
+
+- source: 越来越 多 低收入 城市 家庭 都是 由 妇女 维持.
+- expected: An increasing number of low-income urban households are female-maintained.
+- got: The groups concerned could be exercised regarding drug trafficking.
+
+- source: 没有 划一 的 解决 办法 可 适用于 全世界.
+- expected: No uniform solution can be found for global application.
+- got: Not to date no reply has been received.
+
+- source: · 开发 人力资源 并 改善 基础 设施;
+- expected: Human resource development and improved infrastructural facilities;
+- got: The Improving human resources and human resources management.
+
+- source: · 全面 满足 一切 人 的 基本 需要;
+- expected: Comprehensive provision for the basic needs of all;
+- got: The those ends, the country demands <UNK>
+
+- source: (f) 特别 重视 能力 建设 和 社区 的 管理;
+- expected: (f) Placing special emphasis on capacity-building and community-based management;
+- got: (f) Special Rapporteur and the importance of indigenous peoples.
+
+- source: 为此 目的 采取 的 行动 应 包括:
+- expected: Actions to this end should include:
+- got: To that end, appropriate action should be taken to:
+
+- source: · 机会 公平 与 均等 和 社会 流动;
+- expected: Equity and equality of opportunity and social mobility;
+- got: The following cultural and historical <UNK> were <UNK>
+
+- source: · 两性 平等 和 公平, 赋予 妇女 权力;
+- expected: Gender equality and equity and empowerment of women;
+- got: The number of troops and women are as follows:
+
+- source: 这 就 必须:
+- expected: This will require:
+- got: This should <UNK>
+
+- source: 这 就 需要:
+- expected: This will require:
+- got: This should <UNK>
+
+- source: 社会 发展 问题 世界 首脑 会议,
+- expected: The World Summit for Social Development,
+- got: Meeting on social indicators;
+
+- source: 核准 全权 证书 委员会 的 报告.
+- expected: Approves the report of the Credentials Committee.
+- got: Approves the report of the Credentials Committee.
+
+- source: 3.巴勒斯坦 的 观察员 出席 了 首脑 会议.
+- expected: 3. The observer for Palestine attended the Summit.
+- got: Over <UNK> persons attended the session.
+
+- source: 7.下列 专门机构 出席 了 会议:
+- expected: 7. The following specialized agencies were represented:
+- got: <UNK> specialized agencies were represented:
+
+- source: 随后, 秘书长 对 首脑 会议 发言.
+- expected: The Secretary-General then addressed the Summit.
+- got: It is entitled to the Secretary-General of <UNK>
+
+- source: 2.选举 主席.
+- expected: 2. Election of the President.
+- got: <UNK> President, Supreme Court <UNK>
+
+- source: 4.通过 议程 和 其他 组织 事项.
+- expected: 4. Adoption of the agenda and other organizational matters.
+- got: <UNK> and other matters.
+
+- source: 5.选举 主席 以外 主席团 其他 成员.
+- expected: 5. Election of officers other than the President.
+- got: - other officers other than the President.
+
+- source: (a) 任命 全权 证书 委员会 的 成员;
+- expected: (a) Appointment of the members of the Credentials Committee;
+- got: (a) Appointment of the members of the Credentials Committee;
+
+- source: 8.一般性 交换 意见.
+- expected: 8. General exchange of views.
+- got: <UNK> <UNK> of these items.
+
+- source: 9.国家 元首 和政 府 首脑 会议.
+- expected: 9. Meeting of heads of State or Government.
+- got: <UNK> of the Summit - an "Agenda for <UNK>
+
+- source: 11.通过 首脑 会议 的 报告.
+- expected: 11. Adoption of the report of the Summit.
+- got: <UNK> of the Summit <UNK>
+
+- source: 主要 委员会 也 举行 了 若干 非正式 会议.
+- expected: It also held a number of informal meetings.
+- got: The Committee also held several meetings.
+
+- source: 贫穷 与 环境 退化 是 密切 相联 的.
+- expected: Poverty and environmental degradation are closely interrelated.
+- got: Poverty and environmental degradation are closely <UNK>
+
+- source: 接受 有关 代表 的 全权 证书.
+- expected: Accepts the credentials of the representatives concerned.
+- got: <UNK> the credentials of the representatives concerned.
+
+- source: 人们 对待 自然 往往 不够 明智 和 短视.
+- expected: Man has often treated nature unwisely and short-sightedly.
+- got: There is no industrial development and <UNK>
+
+- source: 但 人 对待 人 则 更糟.
+- expected: But man has treated man even worse.
+- got: But the time was not <UNK>
+
+- source: 我们 现在 到了 人类 历史 的 转折点.
+- expected: We have come to a turning-point for mankind.
+- got: We shall now begin the voting process.
+
+- source: 我们 将 提供 领导 和 方针.
+- expected: We will provide leadership and direction.
+- got: We shall never need for stability.
+
+- source: 我 欢迎 各位 到 哥本哈根 和 丹麦.
+- expected: I welcome you to Copenhagen and Denmark.
+- got: I welcome the temporary <UNK> in Tajikistan.
+
+- source: 我们 必须 着重 人 的 安全.
+- expected: We need to focus on human security.
+- got: We must therefore draw the <UNK>
+
+- source: 这 是 一 个 优先 问题 和 决心 问题.
+- expected: It is a question of priorities and determination.
+- got: This is a matter of priority task.
+
+- source: 我们 必须 援助 社会 上 穷苦 的 人.
+- expected: We must assist people in social distress.
+- got: We must help our social security and <UNK>
+
+- source: 有些 国家 富有, 有些 国家 贫穷.
+- expected: Some countries are rich. Some are poor.
+- got: Some countries have compulsory licensing legislation.
+
+- source: 让 我们 将 希望 化为 行动.
+- expected: Let us transform hope into action.
+- got: Let us begin implementing that situation.
+
+- source: 这 是 人民 期望 于我 们 的.
+- expected: That is what people expect from us.
+- got: This has been <UNK> as well.
+
+- source: 哥本哈根 首脑 会议 定 有 影响.
+- expected: The Copenhagen Summit will make a difference.
+- got: The Summit shall be year <UNK>
+
+- source: 因为 我们 决心 这样 做.
+- expected: Because we have decided so.
+- got: We do not want to give us concern.
+
+- source: 这 应该 是 这次 世界 首脑 会议 的 重点.
+- expected: That should be the focus of this World Summit.
+- got: It should be a full of the world order.
+
+- source: 促进 社会 融合;
+- expected: Assisting social integration;
+- got: Promoting social <UNK>
+
+- source: 维持 社会 和平.
+- expected: Maintaining social peace.
+- got: Peace-keeping social <UNK>
+
+- source: 第四次 妇女 问题 世界 会议,
+- expected: The Fourth World Conference on Women,
+- got: Action of the world order.
+
+- source: 14.妇女 的 权利 就是 人权;
+- expected: 14. Women's rights are human rights;
+- got: - the rights of the present <UNK>
+
+- source: 29.妇女 在家 庭中 发挥 着 关键性 的 作用.
+- expected: 29. Women play a critical role in the family.
+- got: The mechanism for 1994-1995 was also be a <UNK>
+
+- source: 家庭 有权 得到 全面 的 保护 和 支助.
+- expected: It is entitled to receive comprehensive protection and support.
+- got: They are comprehensive protection and support.
+
+- source: 青年 妇女 和 少女 尤其 易 受 感染.
+- expected: Young women and adolescents are particularly vulnerable.
+- got: Often women are abducted and held as sexual <UNK>
+
+- source: 贫穷 有 各种 根源, 包括 结构性 的.
+- expected: Poverty has various causes, including structural ones.
+- got: Poverty was still in local authorities.
+
+- source: 64.国际 多边 和 双边 发展 合作 组织:
+- expected: 64. By multilateral and bilateral development cooperation organizations:
+- got: - Reporting and cooperation have an ongoing <UNK>
+
+- source: 65.各国 政府 和 多边 金融 机构 酌情:
+- expected: 65. By Governments and multilateral financial institutions, as appropriate:
+- got: <UNK> Government and <UNK> of government forces.
+
+- source: 66.国际 组织:
+- expected: 66. By international organizations:
+- got: - <UNK> financial resources;
+
+- source: 68.国家 和 国际 统计 组织:
+- expected: 68. By national and international statistical organizations:
+- got: - international statistical cooperation:
+
+- source: 75.理科 课程 尤其 具有 性别 偏见.
+- expected: 75. Science curricula in particular are gender-biased.
+- got: The road ahead is <UNK> in particular, by <UNK>
+
+- source: (d) 缩小 发达 国家 和 发展中国家 的 差距;
+- expected: (d) Narrow the disparities between developed and developing countries;
+- got: (d) States which accede to developing countries and developing countries.
+
+- source: (b) 广泛 传播 研究 成果;
+- expected: (b) Disseminate findings of research and studies widely;
+- got: (b) Dissemination of evaluation <UNK>
+
+- source: 142.各国 政府 及 国际 和 区域 政府 间 机构:
+- expected: 142. By Governments and international and regional intergovernmental institutions:
+- got: <UNK> and global community organizations from the <UNK>
+
+- source: 145.各国 政府 及 国际 和 区域 组织:
+- expected: 145. By Governments and international and regional organizations:
+- got: <UNK> and international community self-help <UNK>
+
+- source: 170.国际, 多边 和 双边 发展 合作 组织:
+- expected: 170. By international, multilateral and bilateral development cooperation organizations:
+- got: - Reporting and cooperation have an ongoing <UNK>
+
+- source: 172.国际 组织:
+- expected: 172. By international organizations:
+- got: - <UNK> financial resources;
+
+- source: 191.各 政党:
+- expected: 191. By political parties:
+- got: "Human resources <UNK>
+
+- source: (d) 有机 会 影响 所有 政府 政策 的 制订.
+- expected: (d) Opportunity to influence development of all government policies.
+- got: (d) To maintain the policy of all concerned.
+
+- source: 205.国家 机构:
+- expected: 205. By national machinery:
+- got: - <UNK> <UNK>
+
+- source: 209.多边 发展 机构 和 双边 捐助者:
+- expected: 209. By multilateral development institutions and bilateral donors:
+- got: - development and <UNK> of first aid <UNK>
+
+- source: 240.国家 和 国际 媒体 系统:
+- expected: 240. By national and international media systems:
+- got: - international law, <UNK> and international <UNK>
+
+- source: 242.非 政府 组织 和 媒体 专业 协会:
+- expected: 242. By non-governmental organizations and media professional associations:
+- got: <UNK> Government and <UNK> must not meet <UNK>
+
+- source: 244.大众 媒体 和 广告 机构:
+- expected: 244. By the mass media and advertising organizations:
+- got: "The situation between Iraq and <UNK>
+
+- source: 贫穷 与 环境 退化 是 密切相关 的.
+- expected: Poverty and environmental degradation are closely interrelated.
+- got: Poverty and environmental degradation are closely <UNK>
+
+- source: 255.非 政府 组织 和 私营 部门:
+- expected: 255. By non-governmental organizations and the private sector:
+- got: - Government and supporting government for:
+
+- source: 女孩 往往 面临 要 从事性 活动 的 压力.
+- expected: Girls often face pressures to engage in sexual activity.
+- got: Yet legislation is needed to make money <UNK>
+
+- source: ㈢ 实施 社会 保障 制度;
+- expected: (iii) Application of social security coverage;
+- got: (iii) It <UNK> social policies.
+
+- source: ㈣ 开办 持续 不断 的 培训 和 教育;
+- expected: (iv) Establishment of continuous training and education;
+- got: (iv) Addressing the <UNK> of poverty;
+
+- source: 285.各国 政府 与 非 政府 组织 合作:
+- expected: 285. By Governments, in cooperation with non-governmental organizations:
+- got: <UNK> non-governmental organizations were non-governmental organizations and <UNK>
+
+- source: 必须 要有 明确 的 目标 和 责任 机制.
+- expected: Clear objectives and accountability mechanisms are also required.
+- got: The objective must be strengthened and must be enforced.
+
+- source: 这 需要 各国 政府 和 国际 社会 作出 承诺.
+- expected: This requires commitment from Governments and the international community.
+- got: This requires the international community and their efforts.
+
+- source: 第四次 妇女 问题 世界 会议,
+- expected: The Fourth World Conference on Women,
+- got: Action of the world order.
+
+- source: 第四次 妇女 问题 世界 会议,
+- expected: The Fourth World Conference on Women,
+- got: Action of the world order.
+
+- source: 4.巴勒斯坦 观察员 出席 了 会议.
+- expected: 4. The observer for Palestine attended the Conference.
+- got: Over <UNK> persons attended the session.
+
+- source: 1.会议 开幕.
+- expected: 1. Opening of the Conference.
+- got: - no session.
+
+- source: 2.选举 主席.
+- expected: 2. Election of the President.
+- got: <UNK> President, Supreme Court <UNK>
+
+- source: 4.通过 议程 和 其他 组织 事项.
+- expected: 4. Adoption of the agenda and other organizational matters.
+- got: <UNK> and other matters.
+
+- source: 5.选举 主席 以外 的 主席团 成员.
+- expected: 5. Election of officers other than the President.
+- got: - President (article than officers of the President.
+
+- source: (a) 任命 全权 证书 委员会 成员;
+- expected: (a) Appointment of the members of the Credentials Committee;
+- got: (a) Appointment of the members of the Credentials Committee;
+
+- source: 8.一般性 交换 意见:
+- expected: 8. General exchange of views:
+- got: <UNK> <UNK>
+
+- source: (b) 区域 筹备会议 的 主要 结论 和 建议;
+- expected: (b) Main conclusions and recommendations of regional preparatory conferences;
+- got: (b) To form and address of the regional <UNK>
+
+- source: 它 还 举行 了 若干 次 非正式 会议.
+- expected: It also held a number of informal meetings.
+- got: It also held both meetings.
+
+- source: 这些 话 是 教皇 约翰·保罗 二 世 说 的.
+- expected: Those are the words of Pope John Paul II.
+- got: These are described in accordance with two <UNK>
+
+- source: 第232 (f) 段 也 是 如此;
+- expected: The same applies to paragraph 232 (f);
+- got: Paragraph <UNK> is also <UNK>
+
+- source: 接受 上述 代表 的 全权 证书.
+- expected: "Accepts the credentials of the representatives concerned."
+- got: <UNK> the credentials of the representatives concerned.
+
+- source: 它 宣布 1975年 为 国际 妇女 年.
+- expected: It proclaimed 1975 as International Women's Year.
+- got: It has grown in the international community <UNK>
+
+- source: 1979年 是 划时代 的 一年.
+- expected: 1979 was a landmark year.
+- got: The year of year is a <UNK>
+
+- source: 我们 会议 的 其中 一 个 主题 是 平等.
+- expected: One of the themes of our Conference is equality.
+- got: Our first relates to a part of an <UNK>
+
+- source: 对 妇女 的 暴力 行为 似乎 日益 增加.
+- expected: Violence against women seems to be increasing.
+- got: The cultural dimension seems to be fully respected.
+
+- source: 这个 会议 的 另一个 主题 是 发展.
+- expected: Another theme of this Conference is development.
+- got: The theme was <UNK> of that <UNK>
+
+- source: 它 包括 所有 这些 会议 所 讨论 的 问题.
+- expected: It embraces the issues covered by all of them.
+- got: It will include those referred to that meeting.
+
+- source: 这个 会议 是 行动 的 号角.
+- expected: This Conference is a call to action.
+- got: This is the opening session.
+
+- source: 政府 可以 调集 资源.
+- expected: Government can garner resources.
+- got: The Government could be explored.
+
+- source: 后代 将要 我们 负起 责任.
+- expected: Future generations will hold us accountable.
+- got: There is a all of them.
+
+- source: 让 我们 不要 令 他们 失望.
+- expected: Let us not disappoint them.
+- got: Let us consider that effort.
+
+- source: 让 我们 不要 令 自己 失望.
+- expected: Let us not disappoint ourselves.
+- got: Let us not pay.
+
+- source: 我们 必须 协力 将 我们 的 言语 付诸 行动.
+- expected: Together we must follow our words with our deeds.
+- got: We must therefore draw the right to <UNK>
+
+- source: 还有 五年, 我们 将 跨入 21 世纪.
+- expected: In five years, we will enter the twenty-first century.
+- got: There is <UNK> we shall overcome in <UNK>
+
+- source: 行动 是 向前进 的 唯 一 机会.
+- expected: Action is the only way forward.
+- got: The only reliable communication system is <UNK>
+
+- source: 什么 也 取代 不了 行动.
+- expected: There is no substitute.
+- got: What are also <UNK>
+
+- source: 这种 宣传 不是 真实 的.
+- expected: This is not true.
+- got: That information is not <UNK>
+
+- source: 因为 蒙昧主义者 相信 歧视.
+- expected: For obscurantists believe in discrimination.
+- got: <UNK> is always <UNK>
+
+- source: 神圣 先知 本人 也 同一 名 工作 妇女 结了婚.
+- expected: The Holy Prophet himself married a working woman.
+- got: <UNK> were also involved in several combat <UNK>
+
+- source: 女童 经常 被 遗弃 或 被 堕胎.
+- expected: Girl children are often abandoned or aborted.
+- got: <UNK> were sent for more likely to <UNK>
+
+- source: 6年 以后, 女童 仍然 很 容易 受到 伤害.
+- expected: Six years later, the girl child's vulnerability continues.
+- got: In all, about the vote has been <UNK>
+
+- source: 1997年, 我们 将 举办 第二届 穆斯林 妇女 奥林匹克运动会.
+- expected: In 1997, we host the Second Muslim Women's Olympics.
+- got: We shall never again that the killing in <UNK>
+
+- source: 我 不同 意 他们 的 看法.
+- expected: Let me disagree with them.
+- got: I do not agree with them.
+
+- source: 举行 这次 会议 表明 对 妇女 的 声援.
+- expected: The holding of this Conference demonstrates solidarity with women.
+- got: The meeting received wide publicity in the Conference on <UNK>
+
+- source: 现在 我们 大家 都 旅行 到 城市 或 国外.
+- expected: Now we all travel to cities or abroad.
+- got: We do not recognize that they will now <UNK>
+
+- source: 在 我 的 幼年 时代, 妇女 不 受教 育.
+- expected: When I was growing up, women were not educated.
+- got: I am sure the following contributions at <UNK>
+
+- source: 但 我 希望 能 看到 更多 的 变化.
+- expected: But I hope to see many more changes.
+- got: But I hope that there is now <UNK>
+
+- source: 当然, 我们 在 许多 方面 还 遇到 阻力.
+- expected: Of course there was resistance from many quarters.
+- got: Many people have also been wounded.
+
+- source: 仅仅 靠 选择 自由 不能 保证 正义.
+- expected: Freedom of choice alone does not guarantee justice.
+- got: There could not have been active support.
+
+- source: 正义 是 政治 解放.
+- expected: Justice is political liberty.
+- got: Between political <UNK>
+
+- source: 正义 是 经济 独立.
+- expected: Justice is economic independence.
+- got: It is a economic concern.
+
+- source: 正义 是 社会 平等.
+- expected: Justice is social equality.
+- got: Between social guarantees is <UNK>
+
+- source: 家庭 的 解体 导致 道德 腐败.
+- expected: Disintegration of the family generates moral decay.
+- got: Families continue to be <UNK>
+
+- source: 这种 情况 必须 予以 制止.
+- expected: This must be arrested.
+- got: This situation must be <UNK>
+
+- source: 我们 已经 取得 了 很多 进展.
+- expected: We have seen much progress.
+- got: We have achieved many progress in this Conference.
+
+- source: 我们 必须 改变 未来.
+- expected: We must change the future.
+- got: We must be <UNK>
+
+- source: 但是, 我们 决不能 因为 有 了 诺言 就 心满意足.
+- expected: But we must not rest satisfied with words alone.
+- got: But we all have the facts right <UNK>
+
+- source: 这项 试验 从未 完成.
+- expected: The experiment was never completed.
+- got: This is never <UNK>
+
+- source: 女性 的 平均 寿命 明显 增加.
+- expected: Female life expectancy increased appreciably.
+- got: The consequences of poverty, however, are <UNK>
+
+- source: 产妇 死亡率 降低 了 一半.
+- expected: Maternal mortality rates were halved.
+- got: <UNK> mortality is discussed separately in <UNK>
+
+- source: 但 我们 的 决心 仍 坚定不移.
+- expected: Yet our commitment remains unflinching.
+- got: But we are still give our <UNK>
+
+- source: 我们 取得 了 若干 显著 的 成就.
+- expected: We have several significant achievements to our credit.
+- got: We have been progress in our own <UNK>
+
+- source: 现在 让 我 列举 一些 例子.
+- expected: Let me enumerate some of these.
+- got: Let me now turn to that end.
+
+- source: 他们 自由 参加 全国 和 地方性 的 选举.
+- expected: They freely participate in national and local elections.
+- got: They have always contributed to national and national <UNK>
+
+- source: 女生 教育 得到 极大 的 鼓励.
+- expected: Education for girl students is highly encouraged.
+- got: The education process has been further <UNK>
+
+- source: 婴儿 死亡率 也 有 下降.
+- expected: Infant mortality rates have been reduced.
+- got: A second shipment would also be established.
+
+- source: .消除 妇女 贫困;
+- expected: Eradication of poverty among women;
+- got: <UNK> women <UNK> in <UNK>
+
+- source: .女童 的 生存, 保护 和 发展;
+- expected: Survival, protection and development of the girl child;
+- got: - Environmental and security of <UNK>
+
+- source: .妇女 取得 教育 的 平等 机会;
+- expected: Equal access to educational opportunities for women;
+- got: <UNK> to the question of <UNK>
+
+- source: .妇女 取得 保健 服务 和 营养 的 平等 机会.
+- expected: Equal access to health-care services and nutrition for women.
+- got: - Promotion of the quality of health and <UNK>
+
+- source: 让 全世界 来 抓住 这个 机会.
+- expected: Let the world seize upon it.
+- got: Let us consider that end.
+
+- source: 我 离开 时不会 失望.
+- expected: I shall not leave disappointed.
+- got: I am <UNK> a <UNK>
+
+- source: 这 一切 都 需要 金钱.
+- expected: All this needs money.
+- got: These are all very <UNK>
+
+- source: 金钱 就是 权力.
+- expected: Money is power.
+- got: That is a <UNK>
+
+- source: 这 也许 就是 和平 的 决 窍.
+- expected: This may be the recipe for peace.
+- got: This is the foundation of peace.
+
+- source: 布丁 的 好坏, 一 尝 就 知.
+- expected: The proof of the pudding is in the eating.
+- got: <UNK> A <UNK> first <UNK> in <UNK>
+
+- source: 谢谢 你, 中国, 谢谢 你 担任 全世界 的 东道主.
+- expected: Thank you, China, for being hosts to the world.
+- got: <UNK> the <UNK> did not live up as follows:
+
+- source: · 采取 行动, 鼓励 公平 地 分担 家庭 责任.
+- expected: Action to encourage an equitable sharing of family responsibilities.
+- got: The drafting for more than a responsibility has been established.
+
+- source: 作为 秘书长, 我 接受 这项 挑战.
+- expected: As Secretary-General, I accept that challenge.
+- got: It is indeed a <UNK>
+
+- source: 这 是 真 叫人 高兴.
+- expected: It is a wonderful feeling.
+- got: This is all very <UNK>
+
+- source: 我 衷心 地 感谢 你们.
+- expected: I thank you all sincerely.
+- got: I am <UNK> a <UNK>
+
+- source: 谢谢 你们.
+- expected: Thank you.
+- got: "Human resources <UNK>
+
+- source: 我 感谢 和 祝福 青年人.
+- expected: I thank and bless young people.
+- got: I thank and <UNK>
+
+- source: 你们 自始至终 都 支持 我们.
+- expected: You have been with us throughout.
+- got: You can all success.
+
+- source: 社会 正义 要求 我们 继续 前进.
+- expected: Social justice demands that we move on.
+- got: We all delegations supported the Social Council.
+
+- source: 全世界 的 目光 都 集中 在 我们 身上.
+- expected: The eyes of the world are upon us.
+- got: Our independence was reflected in the following year.
+
+- source: 我们 必定 能够 达到 目标 !
+- expected: We shall surely get there!
+- got: We must seek the objectives of <UNK>
+
+- source: 我们 无疑 已经 取得 了 进步.
+- expected: Undoubtedly, we have moved forward.
+- got: We have also achieved progress in this regard.
+
+- source: 在 北京 发生 的 事 不能不 说.
+- expected: The story of Beijing cannot be untold.
+- got: In all, about the control of <UNK>
+
+- source: 现在 我们 必须 继续 前进.
+- expected: Now we must move on.
+- got: We must now that position.
+
+- source: 它们 总是 争取 得来 的.
+- expected: They have always been taken.
+- got: They always have just our <UNK>
+
+- source: 我们 知道 继续 性别 隔离 的 代价.
+- expected: We know the costs of continuing genderized apartheid.
+- got: We know that continue to be <UNK>
+
+- source: 上述 地方 都 需要 变革.
+- expected: This is where change is required.
+- got: Those efforts are needed.
+
+- source: 无论 在 北方 还是 在 南方 都 如此.
+- expected: Both in the North and in the South.
+- got: The same is being pursued in that city.
+
+- source: 女权 是 一 股 巨大 的 力量.
+- expected: Women power is a formidable force.
+- got: The very word development has been <UNK>
+
+- source: 妇女 的 价值观 可以 作出 很大 贡献.
+- expected: Women's values have a lot to give.
+- got: Women have a great contribution.
+
+- source: 这种 现象 不能 也 不会 持续 下去.
+- expected: This situation cannot and will not last.
+- got: These phenomena not continue to not <UNK>
+
+- source: 我们 都 认为 妇女 的 教育 是 关键.
+- expected: We agree that women's education is essential.
+- got: We believe that the quality of our own <UNK>
+
+- source: 正是 在 这个 时候 需要 谈到 人权.
+- expected: This is where human rights enter the picture.
+- got: That is time to change that respect.
+
+- source: 但是 做 这种 事 的 人 生活 在 当代.
+- expected: But they are committed by people who live today.
+- got: But that is more than a <UNK>
+
+- source: 今天 我们 认识 到 贫困 有性 别 差别.
+- expected: Today, we recognize that poverty has a gender bias.
+- got: Today's triumph we wish to see <UNK>
+
+- source: 贫困 越来越 区别 对待 男子 和 妇女.
+- expected: Increasingly, poverty discriminates between men and women.
+- got: Poverty and more than men were needed.
+
+- source: 并且 这个 20% 必须 考虑 到 性别 因素.
+- expected: And those 20 per cent need to be genderized.
+- got: The parties must be considered at any reservations.
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 经济 及 社会 理事会:
+- expected: The Economic and Social Council:
+- got: The Economic and Social Council:
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程 和 其他 组织 事项.
+- expected: 2. Adoption of the agenda and other organizational matters.
+- got: <UNK> and other matters.
+
+- source: 3.关于 各国 人口 事务 经验 的 一般性 辩论.
+- expected: 3. General debate on national experience in population matters.
+- got: <UNK> General debate on national experience in population matters;
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 经济 及 社会 理事会:
+- expected: The Economic and Social Council:
+- got: The Economic and Social Council:
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程 和 其它 组织 事项.
+- expected: 2. Adoption of the agenda and other organizational matters.
+- got: Committee <UNK> and other matters.
+
+- source: 9.全球 土地 监测 方案.
+- expected: 9. Global land monitoring programme.
+- got: - Agricultural land should be <UNK>
+
+- source: 10.全球 矿物 资源 潜力 知识库.
+- expected: 10. Global knowledge base on mineral resource potential.
+- got: - 25 <UNK> the resource <UNK>
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程 和 其它 组织 事项.
+- expected: 2. Adoption of the agenda and other organizational matters.
+- got: Committee <UNK> and other matters.
+
+- source: (b) 水资源 管理 方面 的 制度 和 法律 问题.
+- expected: (b) Institutional and legal issues in water resource management.
+- got: (b) Water and management of the management of investment.
+
+- source: 9.小规模 采矿 的 发展.
+- expected: 9. Developments in small-scale mining.
+- got: <UNK> conditions in particular:
+
+- source: 中 面临 的 特殊 问题, 其中 包括 ：
+- expected: efforts to achieve these human rights, including:
+- got: The matter of these documents were <UNK>
+
+- source: (a) 塞浦路斯 境内 的 人权 问题 ；
+- expected: (a) Question of human rights in Cyprus;
+- got: (a) <UNK> of human rights in human rights instruments;
+
+- source: 二十, 儿童 权利 包括 ：
+- expected: Rights of the child, including:
+- got: - children on the <UNK>
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 理事会 批准 委员会 的 决定, 即 ：
+- expected: The Council approves the Commission's decision that:
+- got: The Board noted the Council on the Committee.
+
+- source: 忆及 大会 1977年 12月 16日 第32/130 号 决议,
+- expected: Recalling General Assembly resolution 32/130 of 16 December 1977,
+- got: Recalling General Assembly resolution <UNK> of 16 December 1992,
+
+- source: 回顾 大会 1995年 12月 21日 第50/135 号 决议,
+- expected: Recalling General Assembly resolution 50/135 of 21 December 1995,
+- got: Recalling General Assembly resolution <UNK> of 21 December 1993,
+
+- source: (c) 其 机制 的 运行 和 职责 ；
+- expected: (c) The functioning and mandate of its mechanisms;
+- got: (c) <UNK> the <UNK> of money and its own <UNK>
+
+- source: (e) 审议 侵犯 人权 行为 的 指控 ；
+- expected: (e) The consideration of alleged violations of human rights;
+- got: (e) The Human Rights of the rights violations <UNK>
+
+- source: 6.敦促 会员国 ：
+- expected: 6. Urges Member States:
+- got: <UNK> This may be <UNK>
+
+- source: 12.还 请 秘书长 在 现有 资源 范围 内 ：
+- expected: 12. Also requests the Secretary-General, from within existing resources:
+- got: <UNK> Requests the Secretary-General on this <UNK>
+
+- source: 1.对 恐怖主义 的 受害者 表示 声援 ；
+- expected: 1. Expresses its solidarity with the victims of terrorism;
+- got: <UNK> <UNK> the victims of preventive <UNK>
+
+- source: 6.请 秘书长 ：
+- expected: 6. Requests the Secretary-General:
+- got: <UNK> <UNK> <UNK>
+
+- source: (b) 克罗地亚 共和国 ；
+- expected: (b) The Republic of Croatia;
+- got: (b) The Republic of Croatia about <UNK>
+
+- source: 该 决定 草案 未经 表决 获得 通过.
+- expected: The draft decision was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 巴勒斯坦 的 观察员 也 发了言 (第3次).
+- expected: The Observer for Palestine also made a statement (3rd).
+- got: The question of Palestine also <UNK>
+
+- source: 巴勒斯坦 的 观察员 也 发了言 (第7次).
+- expected: The Observer for Palestine also made a statement (7th).
+- got: The question of Palestine also <UNK>
+
+- source: 摩洛哥 后来 加入 为 提案 国.
+- expected: Morocco subsequently joined the sponsors.
+- got: Morocco was destroyed by the experts.
+
+- source: 反对: 俄罗斯 联邦, 美利坚合众国.
+- expected: Against: Russian Federation, United States of America.
+- got: Against: Israel, United States of America.
+
+- source: 加拿大 和 新西兰 后来 加入 为 提案 国.
+- expected: Canada and New Zealand subsequently joined the sponsors.
+- got: Canada is entitled to make and public <UNK>
+
+- source: 孟加拉国, 黎巴嫩 和 南非 后来 加入 为 提案 国.
+- expected: Bangladesh, Lebanon and South Africa subsequently joined the sponsors.
+- got: Bangladesh and perhaps Cambodia fall in South Africa;
+
+- source: 弃权 ： 马来西亚, 菲律宾, 大韩民国.
+- expected: Abstaining: Malaysia, Philippines, Republic of Korea.
+- got: In its previous resolutions on <UNK>
+
+- source: 78.决议 草案 未经 表决 获得 通过.
+- expected: 78. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 日本 随后 加入 为 提案 国.
+- expected: Japan subsequently joined the sponsors.
+- got: Japan then adopted the revised to <UNK>
+
+- source: 93.古巴 加入 提案 国.
+- expected: 93. Cuba joined the sponsors.
+- got: d/ <UNK> in sponsoring <UNK>
+
+- source: 委内瑞拉 随后 加入 为 提案 国.
+- expected: Venezuela subsequently joined the sponsors.
+- got: The Council then adopted the revised to <UNK>
+
+- source: 99.决议 草案 未经 表决 获得 通过.
+- expected: 99. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 1.序言 部分 最后 一段 内容 应当 如下:
+- expected: "1. The last preambular paragraph should read as follows:
+- got: Tuesday, 31 May 1994, <UNK> p.m.
+
+- source: 116.决议 草案 未经 表决 获得 通过.
+- expected: 116. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 摩洛哥 随后 加入 提案 国.
+- expected: Morocco subsequently joined the sponsors.
+- got: Morocco then adopted the draft resolution.
+
+- source: 130.决议 草案 未经 表决 获得 通过.
+- expected: 130. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 133.决议 草案 未经 表决 获得 通过.
+- expected: 133. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 或 处罚 公约 的 现况 ；
+- expected: INHUMAN OR DEGRADING TREATMENT OR PUNISHMENT;
+- got: A list of <UNK> or <UNK>
+
+- source: 165.决议 草案 未经 表决 获得 通过.
+- expected: 165. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 168.决议 草案 未经 表决 获得 通过.
+- expected: 168. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 183.决议 草案 未经 表决 获得 通过.
+- expected: 183. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 安哥拉, 爱沙尼亚 和 冈比亚 随后 加入 提案 国.
+- expected: Angola, Estonia and the Gambia subsequently joined the sponsors.
+- got: The revised negotiating text and then <UNK>
+
+- source: 198.决议 草案 未经 表决 获得 通过.
+- expected: 198. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: (a) 删去 序言 部分 第4段 ；
+- expected: (a) The fourth preambular paragraph was deleted;
+- got: (a) In the fourth preambular paragraph should read:
+
+- source: 印度 随后 撤出 提案 国.
+- expected: India subsequently withdrew as a sponsor.
+- got: India then adopted the revised to <UNK>
+
+- source: 萨尔瓦多 后来 撤出, 不再 是 提案 国.
+- expected: El Salvador subsequently withdrew as a sponsor.
+- got: There is no longer a cause for <UNK>
+
+- source: 弃权 ： 多米尼加共和国, 萨尔瓦多, 马拉维, 大韩民国.
+- expected: Abstaining: Dominican Republic, El Salvador, Malawi, Republic of Korea.
+- got: <UNK> <UNK> on a <UNK> <UNK>
+
+- source: 284.决议 草案 未经 表决 获得 通过.
+- expected: 284. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: (a) 塞浦路斯 境内 的 人权 问题 ；
+- expected: (a) QUESTION OF HUMAN RIGHTS IN CYPRUS;
+- got: (a) <UNK> of human rights in human rights instruments;
+
+- source: 309.决议 草案 未经 表决 获得 通过.
+- expected: 309. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 弃权 ： 喀麦隆, 科特迪瓦.
+- expected: Abstaining: Cameroon, Ce d'Ivoire.
+- got: <UNK> <UNK> the relevant <UNK>
+
+- source: 323.决议 草案 未经 表决 获得 通过.
+- expected: 323. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 冰岛 和 日本 随后 加入 为 提案 国.
+- expected: Iceland and Japan subsequently joined the sponsors.
+- got: 90. Honduras and then strengthened sanctions in Haiti.
+
+- source: 346.决议 草案 未经 表决 获得 通过.
+- expected: 346. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 352.决议 草案 未经 表决 获得 通过.
+- expected: 352. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 加拿大 随后 加入 为 提案 国.
+- expected: Canada subsequently joined the sponsors.
+- got: Canada recently deposited the draft resolution.
+
+- source: 361.决议 草案 未经 表决 获得 通过.
+- expected: 361. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 365.决议 草案 未经 表决 获得 通过.
+- expected: 365. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 369.决议 草案 未经 表决 获得 通过.
+- expected: 369. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 提案 国 接受 了 这 一 修正.
+- expected: The amendment was accepted by the sponsors.
+- got: The proposal has grown in this proposal.
+
+- source: 用 一新 段 代替 这 一段 ：
+- expected: was replaced by a new text;
+- got: Paragraph <UNK> Replace subparagraph (e) with the following:
+
+- source: 1.将 执行 部分 第9段 改为 ：
+- expected: "1. Replace operative paragraph 9 by the following:
+- got: Replace operative paragraph 5 by the following:
+
+- source: 3.将 执行 部分 第19段 改为 ：
+- expected: "3. Replace operative paragraph 19 by the following:
+- got: Replace operative paragraph 5 was revised to read:
+
+- source: 433.决议 草案 未经 表决 获得 通过.
+- expected: 433. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 日本 后来 加入 为 提案 国.
+- expected: Japan subsequently joined the sponsors.
+- got: Japan will abstain in the vote.
+
+- source: 454.决定 草案 未经 表决 获得 通过.
+- expected: 454. The draft decision was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 458.决定 草案 未经 表决 获得 通过.
+- expected: 458. The draft decision was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 462.决议 草案 未经 表决 获得 通过.
+- expected: 462. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 465.决定 草案 未经 表决 获得 通过.
+- expected: 465. The draft decision was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 468.决定 草案 未经 表决 获得 通过.
+- expected: 468. The draft decision was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 482.决议 草案 未经 表决 获得 通过.
+- expected: 482. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 497.决议 草案 未经 表决 获得 通过.
+- expected: 497. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 502.决议 草案 未经 表决 获得 通过.
+- expected: 502. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 505.决议 草案 未经 表决 获得 通过.
+- expected: 505. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 513.决议 草案 未经 表决 获得 通过.
+- expected: 513. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 法国, 荷兰, 西班牙 随后 也 成为 提案 国.
+- expected: France, the Netherlands and Spain subsequently joined the sponsors.
+- got: Subsequently, Iraq made then <UNK> towards the sea.
+
+- source: 516.决议 草案 未经 表决 获得 通过.
+- expected: 516. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 535.决议 草案 未经 表决 获得 通过.
+- expected: 535. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 经济 及 社会 理事会,
+- expected: 'The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 576.决议 草案 未经 表决 获得 通过.
+- expected: 576. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 以下 候补 人 当选 ：
+- expected: The following candidates were elected:
+- got: It <UNK> the following <UNK>
+
+- source: 597.决议 草案 未经 表决 获得 通过.
+- expected: 597. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 599.决议 草案 未经 表决 获得 通过.
+- expected: 599. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 604.决定 草案 未经 表决 获得 通过.
+- expected: 604. The draft decision was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 607.决议 草案 未经 表决 获得 通过.
+- expected: 607. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 611.决议 草案 未经 表决 获得 通过.
+- expected: 611. The draft resolution was adopted without a vote.
+- got: The draft decision was adopted without a vote.
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程.
+- expected: 2. Adoption of the agenda.
+- got: <UNK> The agenda for change.
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: (a) 塞浦路斯 境内 的 人权 问题 ；
+- expected: (a) Question of human rights in Cyprus;
+- got: (a) <UNK> of human rights in human rights instruments;
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 21.儿童 权利, 包括 ：
+- expected: 21. Rights of the child, including:
+- got: <UNK> <UNK> the human resources of <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 文件 ：
+- expected: Documentation:
+- got: <UNK>
+
+- source: 巴勒斯坦.
+- expected: Inc.
+- got: <UNK>
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程.
+- expected: 2. Adoption of the agenda.
+- got: <UNK> The agenda for change.
+
+- source: (a) 塞浦路斯 境内 的 人权 问题 ；
+- expected: (a) Question of human rights in Cyprus;
+- got: (a) <UNK> of human rights in human rights instruments;
+
+- source: 20.儿童 权利, 包括 ：
+- expected: 20. Rights of the child, including:
+- got: <UNK> <UNK> the human resources of <UNK>
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: (c) 提高 工作 质量 和 就业;
+- expected: (c) Enhanced quality of work and employment;
+- got: (c) <UNK> and institutional capacity-building and <UNK>
+
+- source: (a) 非洲 国家 十二 席;
+- expected: (a) Twelve seats for African States;
+- got: (a) Africa has African <UNK>
+
+- source: (b) 亚洲 国家 十 席;
+- expected: (b) Ten seats for Asian States;
+- got: (b) Ten from Asian States;
+
+- source: (c) 拉丁美洲 和 加勒比 国家 九 席;
+- expected: (c) Nine seats for Latin American and Caribbean States;
+- got: (c) Nine from Latin American and Caribbean States;
+
+- source: (d) 东欧 国家 五 席;
+- expected: (d) Five seats for Eastern European States;
+- got: (d) Five from Eastern European States;
+
+- source: (e) 西欧 和 其他 国家 十 席;
+- expected: (e) Ten seats for Western European and other States;
+- got: (e) Ten from Western European and other States.
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council:
+- got: The Economic and Social Council,
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程 和 其他 组织 事项.
+- expected: 2. Adoption of the agenda and other organizational matters.
+- got: <UNK> and other matters.
+
+- source: 3.社会 发展 问题 世界 首脑 会议 的 后续 行动:
+- expected: 3. Follow-up to the World Summit for Social Development:
+- got: <UNK> OF THE WORLD <UNK> FOR SOCIAL <UNK>
+
+- source: (c) 联合国 社会 发展 研究所.
+- expected: (c) United Nations Research Institute for Social Development.
+- got: (c) United Nations social Development Programme;
+
+- source: 经济 及 社会 理事会,
+- expected: "The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 24.又 请 秘书长 提交:
+- expected: "24. Further requests the Secretary-General to submit:
+- got: <UNK> Requests the Secretary-General:
+
+- source: 经 口头 订正 的 决定 草案 全文 如下:
+- expected: The draft decision, as orally revised read as follows:
+- got: The draft resolution, as orally revised, read as follows:
+
+- source: 社会 发展 委员会,
+- expected: "The Commission for Social Development,
+- got: "The Commission on Sustainable Development;
+
+- source: 25.会议 休会.
+- expected: 25. The meeting was suspended.
+- got: "Human resources <UNK>
+
+- source: 该 摘要 全文 如下:
+- expected: The summary reads as follows:
+- got: That statement reads as follows:
+
+- source: 许多 国家 的 劳动力 市场 发生 了 显著 变化.
+- expected: Labour markets have changed markedly in many countries.
+- got: Many of the national reconciliation have been successfully taken.
+
+- source: 这种 伙伴 关系 应 得到 支持 鼓励.
+- expected: These partnerships should be supported and encouraged.
+- got: This <UNK> the task should be <UNK>
+
+- source: 因为 经济 不断 增长, 社会 情况 迅速 变化.
+- expected: As economic growth continues social conditions change rapidly.
+- got: The Economic and Social Council:
+
+- source: Eugene Revanque, Michel Ngambiga-Kama, Suzanne Bike,
+- expected: Iran (Islamic Kamal Kharrazi, Mehdi Danesh-Yazdi, Gholam Hoseein Dehghani,
+- got: <UNK> <UNK> <UNK> Inc.
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程 及 其他 组织 事项.
+- expected: 2. Adoption of the agenda and other organizational matters.
+- got: <UNK> <UNK> and other matters.
+
+- source: 3.审查 委员会 的 运作 情况:
+- expected: 3. Review of the functioning of the Commission:
+- got: The Committee had the following <UNK>
+
+- source: (b) 拟订 多年 期 工作 方案;
+- expected: (b) Elaboration of a multi-year programme of work;
+- got: (b) <UNK> a programme of action for the future;
+
+- source: (a) 制定 综合 战略;
+- expected: (a) Formulation of integrated strategies;
+- got: (a) <UNK> of work <UNK>
+
+- source: (b) 满足 所有人 的 基本 需求;
+- expected: (b) Meeting the basic human needs of all;
+- got: (b) <UNK> all levels of basic types of <UNK>
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 经济 及 社会 理事会,
+- expected: The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程 和 其他 组织 事项.
+- expected: 2. Adoption of the agenda and other organizational matters.
+- got: <UNK> and other matters.
+
+- source: 3.第四次 妇女 问题 世界 会议 的 后续 行动:
+- expected: 3. Follow-up to the Fourth World Conference on Women:
+- got: Issues related to work of the world order.
+
+- source: 4.关于 妇女 地位 的 来文.
+- expected: 4. Communications concerning the status of women.
+- got: <UNK> of women <UNK> in <UNK>
+
+- source: 经济 及 社会 理事会 决定:
+- expected: The Economic and Social Council decides:
+- got: The Economic and Social Council decides:
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程 和 其他 组织 事项.
+- expected: 2. Adoption of the agenda and other organizational matters.
+- got: <UNK> and other matters.
+
+- source: 3.第四次 妇女 问题 世界 会议 的 后续 行动:
+- expected: 3. Follow-up to the Fourth World Conference on Women:
+- got: Issues related to work of the world order.
+
+- source: 4.关于 妇女 地位 的 来文.
+- expected: 4. Communications concerning the status of women.
+- got: <UNK> of women <UNK> in <UNK>
+
+- source: 6.应 组织 专家 小组.
+- expected: 6. Panels of experts should be formed.
+- got: <UNK> <UNK> of the session.
+
+- source: 应花 足够 的 时间 开展 政府 间 对话.
+- expected: Sufficient time should be devoted to intergovernmental dialogue.
+- got: <UNK> government could be sought from non-governmental sources.
+
+- source: 17.新闻 技术 的 进展 开拓 了 疆界.
+- expected: 17. Advances in information technology have opened up boundaries.
+- got: - technical training in special <UNK>
+
+- source: 12.需要 采取 以下 行动:
+- expected: 12. Action is needed to:
+- got: <UNK> the following <UNK>
+
+- source: 34.必须 更好 地 协调 有关 指标 的 工作.
+- expected: 34. The work on indicators should be better coordinated.
+- got: Regular air of the integration of coordination has been established.
+
+- source: 40.决策 问题 应 在 各级 加以 讨论.
+- expected: 40. Decision-making should be addressed at all levels.
+- got: <UNK> issues should be given to be <UNK>
+
+- source: 必须 在 所有 方案 中 列入 性别 内容.
+- expected: A gender element is needed in all programmes.
+- got: All the programme must be given to all <UNK>
+
+- source: 必须 在 所有 出版物 中将 性别 观点 纳入 主流.
+- expected: Mainstreaming a gender perspective into all publications is essential.
+- got: Such interviews may be shown in all concerned.
+
+- source: (a) 删除 序言 部分 第5段 如下:
+- expected: (a) The fifth preambular paragraph, which read:
+- got: (a) In the fourth preambular <UNK>
+
+- source: (b) 执行 部分 第1段:
+- expected: (b) Operative paragraph 1, which read:
+- got: (b) Operative paragraph 7, which had read:
+
+- source: 反对: 伊朗伊斯兰 共和国, 阿拉伯利比亚 民众 国.
+- expected: Against: Iran (Islamic Republic of), Libyan Arab Jamahiriya.
+- got: Against: Libyan Arab <UNK>
+
+- source: 随后 土耳其 加入 为 决议 草案 的 提案 国.
+- expected: Subsequently, Turkey joined in sponsoring the draft resolution.
+- got: Subsequently, Honduras joined in sponsoring the draft resolution.
+
+- source: 61.巴勒斯坦 观察员 也 作 了 发言.
+- expected: 61. The observer for Palestine also made a statement.
+- got: "(i) noted by the observer <UNK>
+
+- source: 序言 第1段.
+- expected: "1st preambular paragraph.
+- got: The fourth preambular <UNK>
+
+- source: 序言 第2段.
+- expected: "2nd preambular paragraph.
+- got: The fourth preambular <UNK>
+
+- source: 序言 第3段 之 二.
+- expected: "3 bis preambular paragraph.
+- got: The third component was revised to <UNK>
+
+- source: 序言 第4段.
+- expected: "4th preambular paragraph.
+- got: The fourth preambular <UNK>
+
+- source: 序言 第5段.
+- expected: "5th preambular paragraph.
+- got: The fourth preambular <UNK>
+
+- source: 序言 第5段 之 二.
+- expected: "5 bis preambular paragraph.
+- got: The fifth preambular paragraph was fully utilized.
+
+- source: 序言 第5段 之 三.
+- expected: "5 ter preambular paragraph.
+- got: The fifth preambular paragraph should be <UNK>
+
+- source: 序言 第5段 之 四.
+- expected: "5 quater preambular paragraph.
+- got: The fifth preambular paragraph should be <UNK>
+
+- source: 序言 第5段 之 五.
+- expected: "5 quinquiens preambular paragraph.
+- got: The fifth preambular paragraph was <UNK>
+
+- source: 序言 第6段.
+- expected: "6th preambular paragraph.
+- got: The fourth preambular <UNK>
+
+- source: 序言 第7段.
+- expected: "7th preambular paragraph.
+- got: The fourth preambular <UNK>
+
+- source: 序言 第7段 之 二.
+- expected: "7 bis preambular paragraph.
+- got: The fourth preambular paragraph should read:
+
+- source: 序言 第8段.
+- expected: "8th preambular paragraph.
+- got: The fourth preambular <UNK>
+
+- source: 序言 第8段 之 二.
+- expected: "8 bis preambular paragraph.
+- got: The fourth preambular paragraph was adopted.
+
+- source: 序言 第9段.
+- expected: "9th preambular paragraph.
+- got: The fourth preambular <UNK>
+
+- source: 序言 第10段.
+- expected: "10th preambular paragraph.
+- got: The fourth preambular <UNK>
+
+- source: 经济 及 社会 理事会,
+- expected: "The Economic and Social Council,
+- got: The Economic and Social Council,
+
+- source: ⑴ 选举 主席团 成员.
+- expected: "1. Election of officers.
+- got: 1. Election of officers.
+
+- source: ⑵ 通过 议程 和 其他 组织 事项.
+- expected: "2. Adoption of the agenda and other organizational matters.
+- got: (2) Adoption of the agenda and other organizational matters.
+
+- source: ⑶ 第四次 妇女 问题 世界 会议 的 后续 行动:
+- expected: "3. Follow-up to the Fourth World Conference on Women:
+- got: (3) to the world order.
+
+- source: ⑷ 同 妇女 地位 有关 的 来文.
+- expected: "4. Communications concerning the status of women.
+- got: The relevant bodies of the relevant bodies of <UNK>
+
+- source: 14.照顾者 的 作用 应 包括 在内.
+- expected: "14. The role of caregivers should be included.
+- got: The role of the role should be <UNK>
+
+- source: 24.必须 更好 地 协调 有关 指标 的 工作.
+- expected: "24. The work on indicators should be better coordinated.
+- got: Regular air of the integration of coordination has been established.
+
+- source: 必须 在 所有 出版物 中将 性别 观点 纳入 主流.
+- expected: Mainstreaming a gender perspective into all publications is essential.
+- got: Such interviews may be shown in all concerned.
+
+- source: 9.瑞典 观察员 作 了 发言.
+- expected: 9. The observer for Sweden made a statement.
+- got: "(i) a statement.
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: 2.通过 议程 和 其他 组织 事项.
+- expected: 2. Adoption of the agenda and other organizational matters.
+- got: <UNK> and other matters.
+
+- source: 3.第四次 妇女 问题 世界 会议 的 后续 行动:
+- expected: 3. Follow-up to the Fourth World Conference on Women:
+- got: Issues related to work of the world order.
+
+- source: ㈠ 贫穷;
+- expected: (i) Poverty;
+- got: (i) <UNK>
+
+- source: ㈡ 妇女 与 媒体;
+- expected: (ii) Women and the media;
+- got: (ii) Women and <UNK>
+
+- source: 4.关于 妇女 地位 的 来文.
+- expected: 4. Communications concerning the status of women.
+- got: <UNK> of women <UNK> in <UNK>
+
+- source: 他 还 回答 了 各国 代表团 提出 的 问题.
+- expected: He also responded to questions raised by delegations.
+- got: He also noted some points of his report,
+
+- source: 一些 代表团 认为 这样 的 规定 不合 适.
+- expected: Some delegations found such a provision to be inappropriate.
+- got: Some delegations found the reference to <UNK>
+
+- source: 一些 代表团 提议 删除 这个 词.
+- expected: Some proposed the deletion of this term.
+- got: Some delegations supported the proposed <UNK>
+
+- source: 因此 该 要点 应 为:
+- expected: The element should thus read:
+- got: The text should therefore be <UNK>
+
+- source: 此外, 厄立特里亚 缺乏 充分 的 法律 和 行政 专门知识.
+- expected: Besides, his country lacked adequate legal and administrative expertise.
+- got: Moreover, the human dignity has been fully recognized <UNK>
+
+- source: 这些 活动 包括:
+- expected: These have included:
+- got: This area <UNK>
+
+- source: (f) 审议 经济 和 重建 问题.
+- expected: (f) The consideration of economic and reconstruction issues.
+- got: (f) Consideration of economic and use of Economic <UNK>
+
+- source: 这些 官员 管理 过境 点.
+- expected: These officials operate the border crossings.
+- got: These challenges they were required.
+
+- source: 33.特派 团 总部 设 在 贝尔格莱德.
+- expected: 33. The Mission's headquarters are located in Belgrade.
+- got: <UNK> facilities are being undertaken.
+
+- source: (c) 巴伊纳巴什塔区.
+- expected: (c) Sector Bajina Basta.
+- got: (c) United Nations Children's Fund;
+
+- source: 该区 总部 设 在 黑山 的 尼 克 希奇.
+- expected: The Sector headquarters is located in Niksic, Montenegro.
+- got: There is a world-wide crisis in values.
+
+- source: 重新 部署 工作 于 1995年 11月 15日 完成.
+- expected: The redeployment was completed by 15 November 1995.
+- got: <UNK> will therefore be completed in November 1994.
+
+- source: 它们 继续 在 安全区 联合 巡逻.
+- expected: Joint patrolling in the security zone continues.
+- got: They continue into the joint organization without <UNK>
+
+- source: 10.不过 以色列 的 占领 仍未 结束.
+- expected: 10. However, the Israeli occupation had not ended.
+- got: <UNK> the problems of Sarajevo is <UNK>
+
+- source: 16.以色列 当局 继续 没收 土地.
+- expected: 16. The Israeli authorities continued to confiscate land.
+- got: <UNK> The monitoring of the <UNK>
+
+- source: 19.进行 了 记录 表决.
+- expected: 19. A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对: 以色列, 美利坚合众国.
+- expected: Against: Israel, United States of America.
+- got: Against: Israel, United States of America.
+
+- source: 21.进行 了 记录 表决.
+- expected: 21. A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对: 以色列, 美利坚合众国.
+- expected: Against: Israel, United States of America.
+- got: Against: Israel, United States of America.
+
+- source: 23.进行 了 记录 表决.
+- expected: 23. A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对: 以色列, 美利坚合众国.
+- expected: Against: Israel, United States of America.
+- got: Against: Israel, United States of America.
+
+- source: 25.进行 了 记录 表决.
+- expected: 25. A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 反对: 以色列, 美利坚合众国.
+- expected: Against: Israel, United States of America.
+- got: Against: Israel, United States of America.
+
+- source: 反对: 以色列, 美利坚合众国.
+- expected: Against: Israel, United States of America.
+- got: Against: Israel, United States of America.
+
+- source: 弃权: 马绍尔群岛, 密克罗尼西亚联邦, 俄罗斯 联邦.
+- expected: Abstaining: Marshall Islands, Micronesia (Federated States of), Russian Federation.
+- got: <UNK> <UNK> of Russian Federation <UNK>
+
+- source: 反对: 以色列, 美利坚合众国.
+- expected: Against: Israel, United States of America.
+- got: Against: Israel, United States of America.
+
+- source: 反对: 以色列, 美利坚合众国.
+- expected: Against: Israel, United States of America.
+- got: Against: Israel, United States of America.
+
+- source: 近东 救济 工程处 所作 的 贡献 是 毫无疑问 的.
+- expected: The contribution made by UNRWA was beyond all doubt.
+- got: The text of the Human rights without a serious <UNK>
+
+- source: 这个 评价 看来 仍是 恰当 的.
+- expected: That assessment still seems valid.
+- got: This number includes the following <UNK>
+
+- source: 从 发展 角度 看来, 这 当然 不是 好事.
+- expected: From a development perspective, this is certainly unwarranted.
+- got: This development is not a critical <UNK>
+
+- source: 然而, 失业率 持 高不下.
+- expected: However, high unemployment persists.
+- got: However, the opposite has been <UNK>
+
+- source: 澳大利亚 也 计划 财政 紧缩 政策.
+- expected: Fiscal tightening is also planned in Australia.
+- got: Australia financial plan does not exist as appropriate.
+
+- source: ◆ 表示 系列 中 有 间断.
+- expected: Indicates discontinuity in the series.
+- got: <UNK> and <UNK> the <UNK>
+
+- source: 没有 人 反对, 就 这样 决定.
+- expected: There being no objection, it is so decided.
+- got: There being no objection, it is so decided.
+
+- source: 下午 4 时 50 分 散会.
+- expected: The meeting rose at 4.50 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 也 没有 对 不能 接受 的 暴力 作出 道歉.
+- expected: Nor did he offer apologies for the unacceptable brutality.
+- got: No one can replace him in his <UNK>
+
+- source: 弗朗索瓦·密特朗 总统 今天 上午 逝世.
+- expected: President Fran\x{851e}is Mitterrand passed away this morning.
+- got: President <UNK> said that is expected to <UNK>
+
+- source: 他 确保 了 我国 机构 的 顺利 运转.
+- expected: He ensured the smooth functioning of our institutions.
+- got: He also the range of my country's full cooperation.
+
+- source: 没有 人 反对, 就 这样 决定.
+- expected: There being no objection, it is so decided.
+- got: There being no objection, it is so decided.
+
+- source: 这些 美元 可以 派 更好 的 用场.
+- expected: Those dollars could be better used.
+- got: The financial can be more likely the <UNK>
+
+- source: 他 的 真名 为 Husayn Ahmed Shahit Ali.
+- expected: His true name is Husayn Ahmed Shahit' Ali.
+- got: His <UNK> <UNK> <UNK> was owned by <UNK>
+
+- source: 埃塞俄比亚 绝不 会 成为 别人 的 特洛 伊 木马.
+- expected: Never would Ethiopia be a Trojan horse for others.
+- got: Ethiopia shall be more from the <UNK>
+
+- source: 埃塞俄比亚 及其 人民 等候 你 的 答复.
+- expected: Ethiopia and its peoples await your response.
+- got: Ethiopia there have become more experienced and <UNK>
+
+- source: 3.本 报告 共分 三 节.
+- expected: 3 The report consists of three sections.
+- got: <UNK> report on three sections.
+
+- source: 全球 数据库 将 与 1997年 全部 建成.
+- expected: The global database will be completed in 1997.
+- got: Global tensions and rivalries will be reduced.
+
+- source: 133.亚太经社会 将 举办 下列 会议 ：
+- expected: 133. ESCAP will organize the following meetings:
+- got: <UNK> the following will be <UNK>
+
+- source: 其他 手册 也 正在 编制 过程 中.
+- expected: Other manuals are also being prepared.
+- got: The other second offensive is being <UNK>
+
+- source: 卫星通信 是 这些 方案 中 不可或缺 的 组成 部分.
+- expected: Satellite communications are an integral part of those programmes.
+- got: Its programmes were the difficult of these <UNK>
+
+- source: 以上 活动 将 于 1996 和 1997年 继续 开展.
+- expected: Such activities should continue in 1996 and 1997.
+- got: These activities will continue to be responsible and <UNK>
+
+- source: 这个 项目 已 延长 到 2000年 ；
+- expected: The project has been extended to 2000;
+- got: This project has been extended to the Assembly.
+
+- source: 下 一 期 报告 将 于 1997年 中 出版.
+- expected: The next report will be published in mid-1997.
+- got: The report will be published in late 1994.
+
+- source: 5 同上, 第740卷, 第10612号.
+- expected: [1]Ibid., vol. 740, No. 10612.
+- got: <UNK> <UNK> was elected <UNK>
+
+- source: 然而, 有些 国家 正在 开展 翻译 活动.
+- expected: In some countries, however, translation activities are under way.
+- got: However, both countries are being implemented quickly.
+
+- source: 其他 国家 也 在 执行 类似 的 方案.
+- expected: Similar programmes were being implemented in other countries.
+- got: Other countries would also be similar <UNK>
+
+- source: 73.同样, 也 需要 改进 责任制.
+- expected: 73. Likewise, accountability needs to be improved.
+- got: <UNK> activities are also needed.
+
+- source: 工作队 有 14 名 成员 (见 附件 一).
+- expected: The Task Force has 14 members (see annex I).
+- got: The Task Force has been supported by <UNK>
+
+- source: 在 生命 每一 阶段 的 个人 需求 不同.
+- expected: At each stage of life, individual needs differ.
+- got: Requirements for doing this appeal needs to be <UNK>
+
+- source: 该 准则 可 通过 互连 网 获得.
+- expected: The guidelines can be accessed through the Internet.
+- got: The text of the provisional measures <UNK>
+
+- source: 它 还 共同 赞助 艾滋病 方案.
+- expected: It is also a co-sponsor of UNAIDS.
+- got: It also states procedures for the also <UNK>
+
+- source: 国际 人口 与 发展 会议:
+- expected: INTERNATIONAL CONFERENCE ON POPULATION AND DEVELOPMENT:
+- got: <UNK> and developing countries.
+
+- source: 生殖 权利 包括:
+- expected: Reproductive rights include:
+- got: Further requests the <UNK>
+
+- source: 8.支持 增强性 健康 和 生殖 健康 的 研究.
+- expected: 8. Support research to improve sexual and reproductive health.
+- got: - The health risks and back <UNK>
+
+- source: 3.这次 视察 的 主要 目的 是:
+- expected: 3. The primary objectives of the inspections were:
+- got: <UNK> The main objectives of the Plan were:
+
+- source: 外加 相应 的 注.
+- expected: together with the corresponding footnote.
+- got: <UNK> for <UNK>
+
+- source: 1.通过 议程 和 其他 组织 事项.
+- expected: 1. Adoption of the agenda and other organizational matters.
+- got: <UNK> and other matters.
+
+- source: (a) 大会 各项 政策 建议 的 后续 行动;
+- expected: (a) Follow-up to policy recommendations of the General Assembly;
+- got: (a) The Assembly address the Assembly resolution <UNK>
+
+- source: (d) 人权 问题.
+- expected: (d) Human rights questions;
+- got: (d) Human rights <UNK>
+
+- source: (i) 联合国 难民 事务 高级 专员.
+- expected: (i) United Nations High Commissioner for Refugees.
+- got: (i) United Nations High Commissioner for Refugees.
+
+- source: (h) 国际 税务 合作;
+- expected: (h) International cooperation in tax matters;
+- got: (h) International cooperation in the field of <UNK>
+
+- source: (i) 国际 减少 自然灾害 十年;
+- expected: (i) International decade for Natural Disaster Reduction;
+- got: (i) International Decade for Natural Disaster Reduction;
+
+- source: (b) 信息系统 领域 的 国际 合作;
+- expected: (b) International cooperation in the field of informatics.
+- got: (b) International cooperation in the field of <UNK>
+
+- source: 理事会 第1995/40 号 决议 重申 这项 建议.
+- expected: In its resolution 1995/40, the Council reiterated that recommendation.
+- got: The Board adopted the Board recommends that:
+
+- source: (c) 下列 问题:
+- expected: (c) Issues relating to:
+- got: (c) The following issues are <UNK>
+
+- source: 各 执行 局 每年 应开 一 次 会议.
+- expected: Each Executive Board meets in an annual session.
+- got: Each Executive Board meets in an annual session.
+
+- source: (b) 为 黎巴嫩 的 重建 和 发展 提供 援助.
+- expected: (b) Assistance for the reconstruction and development of Lebanon.
+- got: (b) To monitor the operations and the reconstruction <UNK>
+
+- source: 42.援助 巴勒斯坦 人民.
+- expected: 42. Assistance to the Palestinian people.
+- got: - the Palestinian people <UNK>
+
+- source: 47.公民 及 政治权利 国际 盟约.
+- expected: 47. International Covenant on Civil and Political Rights.
+- got: - International human rights law;
+
+- source: 52.人权 委员会.
+- expected: 52. Commission on Human Rights.
+- got: - The Board of Auditors.
+
+- source: 54.发展 权利.
+- expected: 54. Right to development.
+- got: <UNK> <UNK>
+
+- source: 69.国际 麻醉品 管制 局 的 报告.
+- expected: 69. Report of the International Narcotics Control Board.
+- got: <UNK> Report of the International Narcotics Control Board.
+
+- source: 99.审查 与 政府 组织 协商 安排.
+- expected: 99. Review of arrangements for consultations with non-governmental organizations.
+- got: <UNK> Government and <UNK> with immediate <UNK>
+
+- source: 该 建议 内容 如下:
+- expected: The recommendation read as follows:
+- got: The recommendation read as follows:
+
+- source: (a) 大会 政策 建议 的 后续 行动;
+- expected: (a) Follow-up to policy recommendations of the General Assembly;
+- got: (a) The Assembly address the Assembly requested the Assembly.
+
+- source: 他 说:
+- expected: He said:
+- got: He said:
+
+- source: 这 是 一 个 弥天大谎.
+- expected: This is a big lie.
+- got: This is a <UNK>
+
+- source: 这些 决议 草案 没有 方案 预算 所涉 问题.
+- expected: The draft resolutions had no programme budget implications.
+- got: These draft resolution clearly <UNK>
+
+- source: 他 建议 必须 进行 进一步 的 协商.
+- expected: He suggested that further consultations were needed.
+- got: He must be further strengthened.
+
+- source: 16.就 这样 决定.
+- expected: 16. It was so decided.
+- got: <UNK> It was so decided.
+
+- source: 22.副主席 拉塔 先生 (新西兰) 代行 主席 职务.
+- expected: 22. Mr. Rata (New Zealand), Vice-Chairman, took the Chair.
+- got: Mr. <UNK> <UNK> Vice-Chairman, took the Chair.
+
+- source: 土耳其 政府 拒绝 了 该项 建议.
+- expected: The Turkish Government had rejected that proposal.
+- got: The Government has always respected that undertaking.
+
+- source: 然而, 我们 对局 势 感到 非常 失望.
+- expected: We are, however, very frustrated with the situation.
+- got: However, we are a very <UNK>
+
+- source: 更正 应 只 对 发言 的 原文 提出.
+- expected: The meeting was called to order at 3.45 p.m.
+- got: The meeting was called to order at <UNK> p.m.
+
+- source: 没有 人 反对, 就 这样 决定.
+- expected: There being no objection, it is so decided.
+- got: There being no objection, it is so decided.
+
+- source: 它 才 刚刚 达到 其 最 痛苦 的 阶段.
+- expected: It has just reached its most painful phase.
+- got: It has just the Organization envisaged in its Charter.
+
+- source: 没有 人 反对, 就 这样 决定.
+- expected: There being no objection, it is so decided.
+- got: There being no objection, it is so decided.
+
+- source: 我 深信 它 是 十分 平衡 和 全面 的.
+- expected: It is, I am convinced, well balanced and comprehensive.
+- got: I am sure the first development and very <UNK>
+
+- source: 谈判 进程 的 情况 依然 很 复杂.
+- expected: The situation of the negotiating process remains complex.
+- got: The process of ratification has started <UNK>
+
+- source: 你 可以 指望 我们 的 支持.
+- expected: You can count on our support.
+- got: You can count on our full cooperation.
+
+- source: 我国 代表团 认知 这些 努力, 并 完全 支持 它们.
+- expected: My delegation acknowledges those efforts and fully supports them.
+- got: My delegation fully supports those statements.
+
+- source: 法国 代表团 同意 这项 决定.
+- expected: The French delegation approves this decision.
+- got: In this proposal.
+
+- source: 重要 的 是 要 遵循 这 一 办法.
+- expected: It is imperative that this way be pursued.
+- got: There is an important that is no exception.
+
+- source: 必须 迅速 获得 具体 结果.
+- expected: Concrete results must be achieved speedily.
+- got: A quick count exercise was organized.
+
+- source: 没有 其他 人 要 发言 了.
+- expected: There are no further speakers.
+- got: There are no further speakers.
+
+- source: 2.深表 痛惜 当前 的 一切 核试验;
+- expected: 2. Strongly deplores all current nuclear testing;
+- got: <UNK> the <UNK> of all <UNK>
+
+- source: 回顾 其 1994年 12月 15日 第49/75 H 号 决议,
+- expected: Recalling its resolution 49/75 H of 15 December 1994,
+- got: Recalling its resolution <UNK> (1994) of 14 December 1993,
+
+- source: 回顾 其 1994年 12月 15日 第49/75 I 号 决议,
+- expected: Recalling its resolution 49/75 I of 15 December 1994,
+- got: Recalling its resolution <UNK> of 14 December 1992,
+
+- source: 回顾 其 历次 有关 决议,
+- expected: Recalling its previous relevant resolutions,
+- got: Recalling its previous relevant resolutions,
+
+- source: 1.邀请 会员国:
+- expected: 1. Invites Member States:
+- got: "Human resources <UNK>
+
+- source: 2.请 裁军 审议 委员会:
+- expected: 2. Requests the Disarmament Commission:
+- got: - Disarmament Commission on Disarmament <UNK>
+
+- source: 3.请 秘书长:
+- expected: 3. Requests the Secretary-General:
+- got: <UNK> This may be <UNK>
+
+- source: 重要 的 新 发现 有 安哥拉, 阿根廷 和 哥伦比亚.
+- expected: Notable additions took place in Angola, Argentina and Colombia.
+- got: There are new <UNK> and new ground.
+
+- source: 60.对于 发展中国家 来说, 生物质 资源 极为 重要.
+- expected: 60. Biomass resources are extremely important to developing countries.
+- got: Education: Law <UNK> in developing countries are as follows:
+
+- source: 在 大多数 发达 国家, 初 经期 年龄 已经 下降.
+- expected: Age at menarche has fallen in most developed countries.
+- got: Most were distributed in appropriate national projects.
+
+- source: 在 其他 国家, 差别 则 很小.
+- expected: In others, the difference is small.
+- got: In other words, rates in particular, be <UNK>
+
+- source: 然而, 各 区域 之间 的 差异 悬殊.
+- expected: There is, however, considerable variation across regions.
+- got: However, regional differences are significant.
+
+- source: 停用 理由 因 方法 而 异.
+- expected: Reasons for stopping vary by method.
+- got: - Six representatives of extreme poverty <UNK>
+
+- source: (e) 人员 培训.
+- expected: (e) Training of personnel.
+- got: (e) All levels of <UNK>
+
+- source: 撒 南非洲 的 不育 情况.
+- expected: I, resolution 1, annex).
+- got: The situation has not <UNK>
+
+- source: 日内瓦.
+- expected: Geneva.
+- got: <UNK>
+
+- source: 更正 应 只 对 发言 的 原文 提出.
+- expected: The meeting was called to order at 3.50 p.m.
+- got: The meeting was called to order at <UNK> p.m.
+
+- source: 没有 人 反对, 就 这样 决定.
+- expected: There being no objection, it is so decided.
+- got: There being no objection, it is so decided.
+
+- source: 没有 人 反对, 就 这样 决定.
+- expected: There being no objection, it is so decided.
+- got: There being no objection, it is so decided.
+
+- source: 他们 应该 把 协定 变成 行动.
+- expected: They are expected to translate the Agreement into action.
+- got: They should be sought from developing countries.
+
+- source: 没有 人 反对, 就 这样 决定.
+- expected: There being no objection, it is so decided.
+- got: There being no objection, it is so decided.
+
+- source: 我 相信 这 一 错误 会 得到 纠正.
+- expected: I trust that this error will be rectified.
+- got: I am convinced that this can be <UNK>
+
+- source: 我们 对此 表示 欢迎.
+- expected: We welcome this development.
+- got: We welcome this approach.
+
+- source: 正常 生活 似乎 仍然 很 遥远.
+- expected: Normal life still seems very far away.
+- got: <UNK> issues are still in be <UNK>
+
+- source: 因此, 没有 任何 理由 拒绝.
+- expected: Therefore, there is no reason to refuse.
+- got: There therefore have no such <UNK>
+
+- source: 那 是 任何 国家 都不会 同意 的 事.
+- expected: It is something that no country would have accepted.
+- got: That was by no means easy to that issue.
+
+- source: 然而, 这 只是 一 个 进程 的 开端.
+- expected: Yet it is only the beginning of a process.
+- got: However, that is a process of our <UNK>
+
+- source: 许多 必不可少 的 工作 尚有 待 完成.
+- expected: Much essential work remains to be done.
+- got: Many of the remedies are very clear.
+
+- source: 前 南斯拉夫 的 战争 始于 武科 瓦.
+- expected: The war in former Yugoslavia started in Vukovar.
+- got: The former Yugoslavia and Somalia were cases in <UNK>
+
+- source: 这 并不 意味着 这种 权力 是 无条件 的.
+- expected: This does not mean that this authority is unconditional.
+- got: This is not a matter of such <UNK>
+
+- source: 我 恢复 我 作为 安理会 主席 的 职能.
+- expected: I resume my functions as President of the Council.
+- got: I resume my function as President of the Council.
+
+- source: 下午 5 时 55 分 散会.
+- expected: The meeting rose at 5.55 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 工作组 的 努力 已经 产生 了 有益 的 效果.
+- expected: Those efforts had already had a salutary effect.
+- got: The Working Group has been <UNK> in our position.
+
+- source: (c) 东欧 国家 两 个 成员;
+- expected: (c) Two members from Eastern European States;
+- got: (c) Two members from Eastern European States;
+
+- source: (d) 拉丁美洲 和 加勒比 国家 四 个 成员;
+- expected: (d) Four members from Latin American and Caribbean States;
+- got: (d) Four members from Latin American and Caribbean States;
+
+- source: (e) 西欧 和 其他 国家 三 个 成员.
+- expected: (e) Three members from Western European and other States.
+- got: (e) Three representatives from Western European and other States.
+
+- source: 空间 物体 一般 功能 ：
+- expected: General function of space object:
+- got: Space <UNK> <UNK> on general <UNK>
+
+- source: 地球 观测 及 自然 资源 管理 的 有关 应用.
+- expected: Earth observations and natural resources management related applications.
+- got: Sustainable management of natural resources for natural resources management.
+
+- source: 基于 开罗 宣言;
+- expected: Guided by the Cairo Declaration,
+- got: <UNK> of official languages.
+
+- source: 继续不断 支持 所有 这些 努力;
+- expected: Continue to support all these efforts;
+- got: The Convention has support these efforts.
+
+- source: - 妇女 充分 行使 其 权利,
+- expected: Full exercise by women of their rights;
+- got: <UNK> women did not live up to their <UNK>
+
+- source: - 规划 和 评价 教育,
+- expected: Educational planning and evaluation;
+- got: - <UNK> and reduction of <UNK>
+
+- source: - 重新 制订 学校 的 宗旨 和 改革 课程,
+- expected: Redefinition of the purposes of schooling and curriculum reform;
+- got: <UNK> and the remaining paragraphs accordingly.
+
+- source: - 编制 教材 和 学校 课本,
+- expected: Production of teaching materials and textbooks;
+- got: <UNK> and English <UNK> money <UNK>
+
+- source: - 动员, 培训 和 监督 工作人员,
+- expected: Motivation, training and supervision of personnel,
+- got: - quick and historical causes of the conflict;
+
+- source: 此外, 还 应当 控制 人口 增长.
+- expected: Population growth must also be contained.
+- got: In addition, the population should be <UNK>
+
+- source: 但是 联合国 仍 有 需要 改进 的 地方.
+- expected: The United Nations still had room for improvement, however.
+- got: But the United Nations peace-keeping operations would be needed.
+
+- source: 下午 12 时 40 分 散会.
+- expected: The meeting rose at 12.40 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 上午 10 时 40 分 散会.
+- expected: The meeting rose at 10.40 a.m.
+- got: The meeting rose at <UNK> a.m.
+
+- source: 这项 规则 应当 尊重.
+- expected: That rule should be respected.
+- got: It should be <UNK>
+
+- source: 安理会 成员 赞同 你 在 信中 所作 的 决定.
+- expected: They agree with the decision contained in your letter.
+- got: The Council commenced the Council without a statement by decision.
+
+- source: 6.进行 了 记录 表决.
+- expected: 6. A recorded vote was taken.
+- got: A recorded vote was taken.
+
+- source: 其他 图书馆 则 可以 向 联合国 购买 文件.
+- expected: Other libraries could purchase documents from the United Nations.
+- got: Others stressed the United Nations can verify this.
+
+- source: 15.第三个 领域 是 旅行.
+- expected: 15. The third area was travel.
+- got: <UNK> areas of <UNK>
+
+- source: 它 也 包括 一些 临时工 作 人员.
+- expected: It also contained some temporary staff.
+- got: It also provides vital the <UNK>
+
+- source: 1994年, 乌克兰 缔结 了 100多 项 国际 条约.
+- expected: In 1994, Ukraine had concluded over 100 international treaties.
+- got: The international community stands to its own.
+
+- source: 防止 歧视 对 未来 的 和平 是 至关重要 的.
+- expected: The prevention of discrimination is crucial to future peace.
+- got: The future of democracy is the future <UNK>
+
+- source: * 1994年 1月 17日 当选.
+- expected: * Elected on 17 January 1994.
+- got: * <UNK> on 1 January 1994.
+
+- source: * * 1994年 1月 17日 连任.
+- expected: ** Re-elected on 17 January 1994.
+- got: <UNK> <UNK> on 26 July 1994.
+
+- source: 委员会 对 平民 财产 遭到 破坏 表示 遗憾.
+- expected: The Committee deplores the destruction of civilian property.
+- got: The Committee has grown on the following officers:
+
+- source: 决定:
+- expected: Decides:
+- got: <UNK>
+
+- source: 决定:
+- expected: Decides:
+- got: <UNK>
+
+- source: 已 请求 提供 最新 的 人口 统计 资料.
+- expected: Requests were made for updated demographic information.
+- got: A total of eight meetings were held.
+
+- source: 公务 人员 接受 关于 人权 事务 的 训练.
+- expected: Public officials were trained in human rights matters.
+- got: <UNK> <UNK> on human resources for official statistics.
+
+- source: 有些 问题 仍 没有 答复.
+- expected: Nevertheless, some questions remained unanswered.
+- got: Some problems would have no more.
+
+- source: 对 最高法院 的 作用 作 了 介绍.
+- expected: The role of the Supreme Court was described.
+- got: The role of the Joint Inspection Unit.
+
+- source: 这种 建议 引起 了 辩论.
+- expected: Such suggestions elicited debate.
+- got: That suggestion was quite <UNK>
+
+- source: 大家 称赞 了 某些 办法 具有 新意.
+- expected: The innovative character of certain approaches was commended.
+- got: There were some <UNK> to be no less <UNK>
+
+- source: 他 概述 了 该 办公室 的 主要 责任.
+- expected: The main responsibilities of that Office were outlined.
+- got: He was reportedly released some a major difficulties.
+
+- source: 他 简单 地 叙述 了 这些 主动 行动.
+- expected: A brief description of those initiatives was provided.
+- got: He described the regional initiatives.
+
+- source: 这 一 情况 将 增强 反对 种族歧视 的 行动.
+- expected: This development will reinforce action against racial discrimination.
+- got: That situation has persisted too political will be encouraged.
+
+- source: 他们 有权 得到 法律 援助 以 开展 诉讼 程序.
+- expected: They were entitled to legal aid to initiate proceedings.
+- got: They were distributed to appropriate investment and public enterprises.
+
+- source: a 加入.
+- expected: a/ Accession.
+- got: a/ <UNK>
+
+- source: 9.向 种族主义 和 种族歧视 进行 战斗 的 第三个 十年.
+- expected: 9. Third Decade to Combat Racism and Racial Discrimination.
+- got: Third Decade to Combat Racism and Racial Discrimination.
+
+- source: 1.通过 议程.
+- expected: 1. Adoption of the agenda.
+- got: <UNK> The agenda for change.
+
+- source: 8.向 种族主义 和 种族歧视 进行 战斗 的 第三个 十年.
+- expected: 8. Third Decade to Combat Racism and Racial Discrimination.
+- got: Third Decade to Combat Racism and Racial Discrimination.
+
+- source: 9.1996 和 1997年 的 委员会 会议.
+- expected: 9. Meetings of the Committee in 1996 and 1997.
+- got: - Commission on Crime Prevention and Criminal <UNK>
+
+- source: 提交者: C.P.
+- expected: Submitted by: C. P.
+- got: "Human resources <UNK>
+
+- source: 指称 受害者: 撰文者 及其 子 M.P.
+- expected: Alleged victims: The author and his son, M. P.
+- got: The <UNK> and relevant from the <UNK>
+
+- source: 于 1995年 3月 15日 开会,
+- expected: Meeting on 15 March 1995,
+- got: Meeting on 15 March 1994,
+
+- source: 在 这 下面 刻着 黑 鬼 两 字.
+- expected: Under this was inscribed the word "nigger".
+- got: <UNK> that the following two <UNK> are <UNK>
+
+- source: 1.会议 开幕.
+- expected: 1. Opening of the session.
+- got: - no session.
+
+- source: 7.第四次 妇女 问题 世界 会议 的 结果.
+- expected: 7. Results of the Fourth World Conference on Women.
+- got: <UNK> Women's Environment had the world order.
+
+- source: 8.第十六届 会议 临时 议程.
+- expected: 8. Provisional agenda for the sixteenth session.
+- got: - Provisional agenda for the session.
+
+- source: 下午 4 时 50 分 散会.
+- expected: The meeting rose at 4:50 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 1.选举 主席团 成员.
+- expected: 1. Election of officers.
+- got: - officers.
+
+- source: (d) 能源 和 保护 大气.
+- expected: (d) Energy and protection of the atmosphere.
+- got: (d) Energy of energy and petroleum committees.
+
+- source: 其余 的 是 研究所, 基金会 和 专业组 织.
+- expected: The rest were research institutions, foundations and professional organizations.
+- got: and the remaining paragraphs were very <UNK> accordingly.
+
+- source: (d) 与 各国 政府 合伙 提供 生殖 健康 服务;
+- expected: (d) Providing reproductive health services in partnership with Governments;
+- got: (d) The Government of government soldiers and use <UNK>
+
+- source: 2.通过 议程 和 其他 组织 事项.
+- expected: 2. Adoption of the agenda and other organizational matters.
+- got: <UNK> and other matters.
+
+- source: 3.关于 各国 人口 事务 经验 的 一般性 辩论.
+- expected: 3. General debate on national experience in population matters.
+- got: <UNK> General debate on national experience in population matters;
+
+- source: 就 我 本人 而言, 我 将 密切 监测 情况.
+- expected: For my part, I would closely monitor the situation.
+- got: I am confident that I shall certainly be result.
+
+- source: 这项 责任 将 完全 由 当事 双方 承担.
+- expected: The responsibility would rest fully with the parties.
+- got: This legislation will be initiated by various delegations.
+
+- source: 1.会议 开幕.
+- expected: 1. Opening of the session.
+- got: - no session.
+
+- source: 2.会议 安排:
+- expected: 2. Organization of the session:
+- got: <UNK> of defence <UNK>
+
+- source: (a) 环境 状况;
+- expected: (a) State of the environment;
+- got: (a) The environment for <UNK>
+
+- source: 6.环境 与 经济学.
+- expected: 6. Environment and economics.
+- got: - <UNK> and <UNK>
+
+- source: 7.行政 和 预算 事项.
+- expected: 7. Administrative and budgetary matters.
+- got: - <UNK> and reduction of the <UNK>
+
+- source: 10.通过 报告.
+- expected: 10. Adoption of the report.
+- got: <UNK> Report of the session.
+
+- source: 11.会议 闭幕.
+- expected: 11. Closure of the session.
+- got: "Human resources <UNK>
+
+- source: 该 文件 的 其它 部分 是 积极 的.
+- expected: The rest of the document was, however, constructive.
+- got: That is the purpose of operative paragraph 6.
+
+- source: 临时 议程 草案 未 加修 正 获得 核准.
+- expected: The draft provisional agenda was approved without amendment.
+- got: Draft decision II was <UNK> in fact that:
+
+- source: (i) 制订 区域 环境 方案;
+- expected: (i) Developing regional programmes for the environment;
+- got: (i) To improve the regional programmes;
+
+- source: 3.请 各国 政府 考虑 下列 需要:
+- expected: 3. Requests Governments to consider the need:
+- got: <UNK> Governments were distributed to the following <UNK>
+
+- source: 5.授权 执行 主任:
+- expected: Calls upon the Executive Director:
+- got: <UNK> Executive <UNK>
+
+- source: 11.会议 闭幕.
+- expected: [90]/ UNEP/GC.18/21 and Corr.1.
+- got: "Human resources <UNK>
+
+- source: 下午 12 时 5 分 散会.
+- expected: The meeting rose at 12.05 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 每天 将 为 六 次 会议 提供 设施.
+- expected: Facilities will be available for six meetings each day.
+- got: The total number of meetings will be <UNK>
+
+- source: 对 公约 的 批准 产生 了 极大 的 影响.
+- expected: Ratification of the Convention had had a tremendous impact.
+- got: The Convention has before the Convention without a <UNK>
+
+- source: 她 问 政府 持 何种 政策.
+- expected: She asked what the Government's policy was.
+- got: She has always been more <UNK>
+
+- source: 下午 1 时 5 分 散会.
+- expected: The meeting rose at 1.05 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 3.下列 国家 代表 参加 了 会议:
+- expected: 3. Representatives of the following States attended the session:
+- got: <UNK> States attended the session:
+
+- source: 5.下列 专门机构 参加 了 会议:
+- expected: 5. The following specialized agencies were represented:
+- got: <UNK> solidarity between that conference.
+
+- source: 又 有 报道 说 事实上 的 部队 强行 征兵.
+- expected: There were again reports of forced recruitment into DFF.
+- got: There is another <UNK> to make it work.
+
+- source: 9.就 这样 决定.
+- expected: 9. It was so decided.
+- got: <UNK> It was so decided.
+
+- source: 从 那时 起, 执行 部队 集结 继续不断.
+- expected: Since then, the build-up of IFOR has continued apace.
+- got: There were a massive voter <UNK>
+
+- source: 这 方面 工作 获得 了 广泛 合作.
+- expected: There has been extensive cooperation in this effort.
+- got: This programme has been made in the regard.
+
+- source: 2月 3 日前 必须 照办.
+- expected: Compliance is required by 3 February.
+- got: <UNK> first measures determined to <UNK>
+
+- source: 1995年 12月 18日 以色列 军机 飞越 巴 卜达地区.
+- expected: Israeli aircraft overflew land belonging to Ba'abda.
+- got: Support from the principal <UNK> shall be adopted.
+
+- source: 她 简要 评论 了 其 重点.
+- expected: She commented briefly on its main points.
+- got: She has destroyed the Special its own budget.
+
+- source: 只有 人道主义 援助 才 可 无条件 地 提供.
+- expected: Only humanitarian aid should be made available unconditionally.
+- got: Only the humanitarian aid has been <UNK>
+
+- source: 65.必须 改革 整个 司法 制度.
+- expected: 65. The entire judicial system must be reformed.
+- got: The overall endeavour calls for greater <UNK>
+
+- source: 拘捕 和 预防性 拘禁 程序 通常 都 不适 当.
+- expected: Arrest and preventive detention procedures were usually improper.
+- got: A <UNK> presentation is not regularly reviewed and <UNK>
+
+- source: 各个 市政府 已 计划 扩大 托儿 设施.
+- expected: Municipal governments planned to expand childcare facilities.
+- got: The plan <UNK> have been extensively broadcast in 1994.
+
+- source: 每个 选举人 只能 选 一 名 候选人.
+- expected: Each elector may vote for only one candidate.
+- got: <UNK> for each <UNK> is not a <UNK>
+
+- source: 该项 决定 至今 一直 被 遵从.
+- expected: That decision has been followed consistently.
+- got: The decision has been <UNK>
+
+- source: 安理会 将 继续 处理 此案.
+- expected: The Council remains seized of the matter."
+- got: The Council will remain seized of the matter."
+
+- source: 安理会 将 继续 处理 此案.
+- expected: The Council remains seized of the matter.
+- got: The Council will remain seized of the matter."
+
+- source: 下午 1 时 15 分 散会.
+- expected: The meeting rose at 1.15 p.m.
+- got: The meeting rose at <UNK> p.m.
+
+- source: 雇员  范畴: 德国 公务员 制度.
+- expected: Angestellte Context: German federal civil service.
+- got: (i) <UNK> to be becoming <UNK>
+
+- source: 所有 其他 工作 地点 均 在 第二 组内.
+- expected: All other duty stations are in group II.
+- got: All other activities were implemented at <UNK>
+
+- source: 调高  见 附件 十二.
+- expected: Scaling forward See annex XII.
+- got: - <UNK> military operations;
+
+- source: 百分之七十五  范畴: 用于 比较 的 薪金 数据.
+- expected: Seventy-fifth percentile Context: salary data used for comparisons.
+- got: <UNK> for elections were more than a <UNK>
+
+- source: 这种 方法 称为 抽样 方法.
+- expected: This is known as sampling technique.
+- got: This approach is all very <UNK>
+
+- source: 切 须 与 所有 有关 伙伴 增加 协商.
+- expected: Greater consultation with all interested partners was crucial.
+- got: The Convention without any its consideration of all concerned.
+
+- source: 提议 的 安排 会使 情况 更糟.
+- expected: The arrangement proposed would exacerbate this situation.
+- got: The proposed union is the proposed <UNK>
+
+- source: 结果 似乎 可能 适得其反.
+- expected: Rather, the reverse appeared likely.
+- got: The results could be <UNK>
+
+- source: 40.核心 共同 制度.
+- expected: 40. Core common system.
+- got: - common system.
+
+- source: 41.会议 的 长短 和 日期.
+- expected: 41. Length and timing of sessions.
+- got: <UNK> and <UNK> in the <UNK>
+
+- source: 43.同 各 组织 和 工作人员 合作.
+- expected: 43. Cooperation with the organizations and staff.
+- got: - Cooperation with the organizations and their <UNK>
+
+- source: 秘书 处 应 探讨 这 方面 的 备选 办法.
+- expected: The secretariat should explore options in that regard.
+- got: The secretariat should be addressed to be responsible for:
+
+- source: 否则 就 不会 有所 改善.
+- expected: Otherwise, there would be no improvement.
+- got: Otherwise, the situation has not <UNK>
+
+- source: 其中 各项 研究 之间 必然 具有 某种 相互 作用.
+- expected: There was inevitably some interaction between the component studies.
+- got: There is a that agreement on that end.
+
+- source: 行政 协商 会 对 这种 拖延 极为 不满.
+- expected: ACC was extremely distressed at the delay.
+- got: The need for doing not agree with that <UNK>
+
+- source: 大家 也 不 认为 绝对 必须 这样 做.
+- expected: Nor was such an exercise considered entirely necessary.
+- got: It must not be do not enough.
+
+- source: 发言者们 强调 需要 采取 切合 实际 的 办法.
+- expected: Speakers stressed the need for a pragmatic approach.
+- got: The need for increased production in 1993 the <UNK>
+
+- source: 109.奖金, 业绩奖 和 优异奖.
+- expected: 109. Bonuses, performance and merit awards.
+- got: - first aid and <UNK>
+
+- source: 同时, 有人 对 稳定 方面 也 表示 关切.
+- expected: Concerns were also expressed about the stability aspect.
+- got: <UNK> were also made by several workshops.
+
+- source: 这种 差异 对 薪酬 有 显著 影响.
+- expected: That difference had significant remuneration consequences.
+- got: This has been <UNK> as a significant <UNK>
+
+- source: (a) 对于 瑞士 公务员 制度:
+- expected: (a) With regard to the Swiss civil service:
+- got: (a) To reduce the meeting;
+
+- source: (b) 关于 德国 的 公务员 制度:
+- expected: (b) With regard to the German civil service:
+- got: (b) A summary of information on political force.
+
+- source: 那 根本 是 不正 确 的.
+- expected: That was simply not correct.
+- got: That is not what God <UNK>
+
+- source: 但是, 那个 看法 并不是 一致 的.
+- expected: That view, however, was not unanimous.
+- got: But the task is not <UNK>
+
+- source: 这个 情况 在下 表中 有所 说明.
+- expected: This position is illustrated in table 1.
+- got: This has been <UNK> in practice.
+
+- source: 而 这样 的 情况 是 不可 行 的.
+- expected: Such a situation could not be contemplated.
+- got: That is the case of challenge.
+
+- source: 自 1990年 以后, 委员会 便 没有 讨论 该 问题.
+- expected: The Commission had not addressed the question since 1990.
+- got: The Committee had not been delayed too long.
+
+- source: 因此, 进展 应 视为 是 相对 的.
+- expected: Progress had therefore to be seen as relative.
+- got: Therefore, the current mandate should be <UNK>
+
+- source: 扣减 薪酬 也 是 同样 不适 当;
+- expected: Deductions from salaries were equally inappropriate;
+- got: The same applied to funded ongoing activities.
+
+- source: 这些 建议 有 两 点.
+- expected: These consisted of two elements.
+- got: The recommendations has two <UNK>
+
+- source: 不过, 更 重要 的 是 原则 问题.
+- expected: More important, however, was the question of principle.
+- got: However, the principle of Canada.
+
+- source: 此后, 每年 度 将 为 360万 美元.
+- expected: Thereafter, the related annual amount would be $3.6 million.
+- got: 73. The total expenditure would amount to <UNK>
+
+- source: 280.委员会:
+- expected: 280. The Commission:
+- got: <UNK>
+
+- source: 294.委员会:
+- expected: 294. The Commission:
+- got: <UNK>
+
+Bleu Score = 26.135218606858444

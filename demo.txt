@@ -1,0 +1,35 @@
+# -*- coding: utf-8 -*-
+#/usr/bin/python2
+
+class Hyperparams:
+    '''Hyperparameters'''
+    # data
+    source_train = 'corpora/train.vi'
+    target_train = 'corpora/train.en'
+    source_test = 'corpora/tst2013.vi'
+    target_test = 'corpora/tst2013.en'
+    
+    # training
+    batch_size = 32 # alias = N
+    logdir = ‘logdir’ # log directory
+    logdir = 'logdir' # log directory
+    
+    # model
+    maxlen = 10 # 每句话长度
+    min_cnt = 20 # 出现次数过少会显示 <UNK>.
+    hidden_units = 512 # alias = C
+    num_blocks = 6 # number of encoder/decoder blocks
+    num_epochs = 20 #遍历次数
+    num_heads = 8
+    dropout_rate = 0.1
+    sinusoid = False # If True, use sinusoid. If false, positional embedding.
+    
+    
+    
+    
+.1
+    sinusoid = False # If True, use sinusoid. If false, positional embedding.
+    
+    
+    
+    
