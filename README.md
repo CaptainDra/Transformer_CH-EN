@@ -1,5 +1,5 @@
-# Transformer_CH-EN   
-This is a Chinese-English transformer demo, refferred to the thesis:[Attention Is All You Need](https://arxiv.org/abs/1706.03762).    
+# Translator_CH-EN   
+This is a Chinese-English Translator demo, refferred to the thesis:[Attention Is All You Need](https://arxiv.org/abs/1706.03762).    
 I tried to build rebuild a model as the thesis mentioned, and make a simple user interface for the application, the UI like this:   
 
 <img src="pic/UI.png" width = 650/>  
@@ -8,11 +8,11 @@ The system run as following system flow chart:
 
 <img src="pic/system_flow_chart.png" width = 650/>  
 
-For chinese transformer, we need to add word_segmentation function to unified sentence structure, as following picture:   
+For chinese Translator, we need to add word_segmentation function to unified sentence structure, as following picture:   
 
 <img src="pic/word_segmentation.png" width = 650/>  
 
-Then, we need preprocess as other kind of transformer(Count the number of occurrences of each word):   
+Then, we need preprocess as other kind of Translator(Count the number of occurrences of each word):   
 
 <img src="pic/result_preproccess.png" width = 650/>  
 
